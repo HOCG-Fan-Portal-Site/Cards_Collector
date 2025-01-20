@@ -7,6 +7,7 @@
     "card_type": "推しホロメン",
     "rarity": "OC",
     "product": "スタートデッキ 紫 癒月ちょこ",
+    "color": "purple",
     "skills": [
       {
         "type": "推しスキル",
@@ -421,6 +422,7 @@
     "card_type": "推しホロメン",
     "rarity": "OC",
     "product": "スタートデッキ 青 猫又おかゆ",
+    "color": "blue",
     "skills": [
       {
         "type": "推しスキル",
@@ -837,6 +839,7 @@
     "card_type": "推しホロメン",
     "rarity": "OC",
     "product": "スタートデッキ 赤 百鬼あやめ",
+    "color": "red",
     "skills": [
       {
         "type": "推しスキル",
@@ -1253,6 +1256,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": null,
     "skills": [
       {
         "type": "推しスキル",
@@ -1272,6 +1276,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "green",
     "skills": [
       {
         "type": "推しスキル",
@@ -1291,6 +1296,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "red",
     "skills": [
       {
         "type": "推しスキル",
@@ -1310,6 +1316,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "blue",
     "skills": [
       {
         "type": "推しスキル",
@@ -1329,6 +1336,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "purple",
     "skills": [
       {
         "type": "推しスキル",
@@ -1348,6 +1356,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "purple",
     "skills": [
       {
         "type": "推しスキル",
@@ -1367,6 +1376,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "purple",
     "skills": [
       {
         "type": "推しスキル",
@@ -4104,6 +4114,7 @@
     "card_type": "推しホロメン",
     "rarity": "OC",
     "product": "スタートエールセット",
+    "color": null,
     "skills": [
       {
         "type": "推しスキル",
@@ -4123,6 +4134,7 @@
     "card_type": "推しホロメン",
     "rarity": "OC",
     "product": "スタートエールセット",
+    "color": "green",
     "skills": [
       {
         "type": "推しスキル",
@@ -4142,6 +4154,7 @@
     "card_type": "推しホロメン",
     "rarity": "OC",
     "product": "スタートエールセット",
+    "color": "red",
     "skills": [
       {
         "type": "推しスキル",
@@ -4161,6 +4174,7 @@
     "card_type": "推しホロメン",
     "rarity": "OC",
     "product": "スタートエールセット",
+    "color": "blue",
     "skills": [
       {
         "type": "推しスキル",
@@ -4180,6 +4194,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "スタートデッキ「ときのそら＆AZKi」",
+    "color": null,
     "skills": [
       {
         "type": "推しスキル",
@@ -4199,6 +4214,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "スタートデッキ「ときのそら＆AZKi」",
+    "color": "green",
     "skills": [
       {
         "type": "推しスキル",
@@ -4646,6 +4662,7 @@
     "card_type": "推しホロメン",
     "rarity": "P",
     "product": "PRカード",
+    "color": "green",
     "skills": [
       {
         "type": "推しスキル",
@@ -4665,6 +4682,7 @@
     "card_type": "推しホロメン",
     "rarity": "P",
     "product": "PRカード",
+    "color": "purple",
     "skills": [
       {
         "type": "推しスキル",
@@ -4713,6 +4731,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": null,
     "skills": [
       {
         "type": "推しスキル",
@@ -4732,6 +4751,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": null,
     "skills": [
       {
         "type": "推しスキル",
@@ -4751,6 +4771,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "green",
     "skills": [
       {
         "type": "推しスキル",
@@ -4770,6 +4791,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "green",
     "skills": [
       {
         "type": "推しスキル",
@@ -4789,6 +4811,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "red",
     "skills": [
       {
         "type": "推しスキル",
@@ -4808,6 +4831,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "red",
     "skills": [
       {
         "type": "推しスキル",
@@ -4827,6 +4851,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "blue",
     "skills": [
       {
         "type": "推しスキル",
@@ -4846,6 +4871,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "blue",
     "skills": [
       {
         "type": "推しスキル",
@@ -8383,7 +8409,8 @@
     "image_alt": "白エール",
     "card_type": "エール",
     "rarity": "C",
-    "product": "スタートデッキ「ときのそら＆AZKi」ブースターパック「ブルーミングレディアンス」ブースターパック「クインテットスペクトラム」スタートエールセット"
+    "product": "スタートデッキ「ときのそら＆AZKi」ブースターパック「ブルーミングレディアンス」ブースターパック「クインテットスペクトラム」スタートエールセット",
+    "color": null
   },
   "hY02-001-C": {
     "number": "hY02-001",
@@ -8392,7 +8419,8 @@
     "image_alt": "緑エール",
     "card_type": "エール",
     "rarity": "C",
-    "product": "スタートデッキ「ときのそら＆AZKi」ブースターパック「ブルーミングレディアンス」ブースターパック「クインテットスペクトラム」スタートエールセット"
+    "product": "スタートデッキ「ときのそら＆AZKi」ブースターパック「ブルーミングレディアンス」ブースターパック「クインテットスペクトラム」スタートエールセット",
+    "color": "green"
   },
   "hY03-001-C": {
     "number": "hY03-001",
@@ -8401,7 +8429,8 @@
     "image_alt": "赤エール",
     "card_type": "エール",
     "rarity": "C",
-    "product": "ブースターパック「ブルーミングレディアンス」ブースターパック「クインテットスペクトラム」スタートエールセットスタートデッキ 赤 百鬼あやめ"
+    "product": "ブースターパック「ブルーミングレディアンス」ブースターパック「クインテットスペクトラム」スタートエールセットスタートデッキ 赤 百鬼あやめ",
+    "color": "red"
   },
   "hY04-001-C": {
     "number": "hY04-001",
@@ -8410,7 +8439,8 @@
     "image_alt": "青エール",
     "card_type": "エール",
     "rarity": "C",
-    "product": "ブースターパック「ブルーミングレディアンス」ブースターパック「クインテットスペクトラム」スタートエールセットスタートデッキ 青 猫又おかゆ"
+    "product": "ブースターパック「ブルーミングレディアンス」ブースターパック「クインテットスペクトラム」スタートエールセットスタートデッキ 青 猫又おかゆ",
+    "color": "blue"
   },
   "hY05-001-C": {
     "number": "hY05-001",
@@ -8419,7 +8449,8 @@
     "image_alt": "紫エール",
     "card_type": "エール",
     "rarity": "C",
-    "product": "ブースターパック「クインテットスペクトラム」スタートデッキ 紫 癒月ちょこ"
+    "product": "ブースターパック「クインテットスペクトラム」スタートデッキ 紫 癒月ちょこ",
+    "color": "purple"
   },
   "hBP02-001-OUR": {
     "number": "hBP02-001",
@@ -8429,6 +8460,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": null,
     "skills": [
       {
         "type": "推しスキル",
@@ -8448,6 +8480,7 @@
     "card_type": "推しホロメン",
     "rarity": "SEC",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": null,
     "skills": [
       {
         "type": "推しスキル",
@@ -8467,6 +8500,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "green",
     "skills": [
       {
         "type": "推しスキル",
@@ -8486,6 +8520,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "red",
     "skills": [
       {
         "type": "推しスキル",
@@ -8505,6 +8540,7 @@
     "card_type": "推しホロメン",
     "rarity": "SEC",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "red",
     "skills": [
       {
         "type": "推しスキル",
@@ -8524,6 +8560,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "blue",
     "skills": [
       {
         "type": "推しスキル",
@@ -8543,6 +8580,7 @@
     "card_type": "推しホロメン",
     "rarity": "SEC",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "blue",
     "skills": [
       {
         "type": "推しスキル",
@@ -8562,6 +8600,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "purple",
     "skills": [
       {
         "type": "推しスキル",
@@ -8581,6 +8620,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "purple",
     "skills": [
       {
         "type": "推しスキル",
@@ -8600,6 +8640,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "purple",
     "skills": [
       {
         "type": "推しスキル",
@@ -12846,6 +12887,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": null,
     "skills": [
       {
         "type": "推しスキル",
@@ -12865,6 +12907,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": null,
     "skills": [
       {
         "type": "推しスキル",
@@ -12884,6 +12927,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "green",
     "skills": [
       {
         "type": "推しスキル",
@@ -12903,6 +12947,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "green",
     "skills": [
       {
         "type": "推しスキル",
@@ -12922,6 +12967,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "red",
     "skills": [
       {
         "type": "推しスキル",
@@ -12941,6 +12987,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "red",
     "skills": [
       {
         "type": "推しスキル",
@@ -12960,6 +13007,7 @@
     "card_type": "推しホロメン",
     "rarity": "SEC",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "red",
     "skills": [
       {
         "type": "推しスキル",
@@ -12979,6 +13027,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "blue",
     "skills": [
       {
         "type": "推しスキル",
@@ -12998,6 +13047,7 @@
     "card_type": "推しホロメン",
     "rarity": "SEC",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "blue",
     "skills": [
       {
         "type": "推しスキル",
@@ -13017,6 +13067,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "blue",
     "skills": [
       {
         "type": "推しスキル",
@@ -13402,7 +13453,8 @@
     "image_alt": "白エール",
     "card_type": "エール",
     "rarity": "SY",
-    "product": "ブースターパック「クインテットスペクトラム」"
+    "product": "ブースターパック「クインテットスペクトラム」",
+    "color": null
   },
   "hY02-002-SY": {
     "number": "hY02-002",
@@ -13411,7 +13463,8 @@
     "image_alt": "緑エール",
     "card_type": "エール",
     "rarity": "SY",
-    "product": "ブースターパック「クインテットスペクトラム」"
+    "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "green"
   },
   "hY03-002-SY": {
     "number": "hY03-002",
@@ -13420,7 +13473,8 @@
     "image_alt": "赤エール",
     "card_type": "エール",
     "rarity": "SY",
-    "product": "ブースターパック「クインテットスペクトラム」"
+    "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "red"
   },
   "hY04-002-SY": {
     "number": "hY04-002",
@@ -13429,7 +13483,8 @@
     "image_alt": "青エール",
     "card_type": "エール",
     "rarity": "SY",
-    "product": "ブースターパック「クインテットスペクトラム」"
+    "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "blue"
   },
   "hY05-002-SY": {
     "number": "hY05-002",
@@ -13438,7 +13493,8 @@
     "image_alt": "紫エール",
     "card_type": "エール",
     "rarity": "SY",
-    "product": "ブースターパック「クインテットスペクトラム」"
+    "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "purple"
   },
   "hY01-002-P": {
     "number": "hY01-002",
@@ -13447,6 +13503,7 @@
     "image_alt": "白エール",
     "card_type": "エール",
     "rarity": "P",
-    "product": "PRカード"
+    "product": "PRカード",
+    "color": null
   }
 }

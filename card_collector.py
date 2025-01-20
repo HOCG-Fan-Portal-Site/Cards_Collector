@@ -22,7 +22,8 @@ class CardMappings:
         'カードタイプ': ('card_type', lambda x: x.strip()),
         'タグ': ('tags', lambda x: [tag.strip('#') for tag in x.strip().split()]),
         'レアリティ': ('rarity', lambda x: x.strip()),
-        '収録商品': ('product', lambda x: x.strip())
+        '収録商品': ('product', lambda x: x.strip()),
+        '色': ('color', lambda self, x: self._parse_color(x))
     }
     
     COLOR_MAPPING = {
@@ -88,7 +89,7 @@ class CardParser:
                 field = dt.text.strip()
                 if field in CardMappings.FIELD_MAPPING:
                     key, transform = CardMappings.FIELD_MAPPING[field]
-                    self.card_data[key] = transform(dd.text)
+                    self.card_data[key] = transform(self, dd) if field == '色' else transform(dd.text)
         except Exception as e:
             logging.error(f"Error parsing card info: {e}")
     
@@ -105,7 +106,7 @@ class CardParser:
                     continue
                     
                 field_name = CardMappings.DETAIL_MAPPING[key]
-                if key == '色':
+                if key == '色' and 'color' not in self.card_data:  # Only set color if not already set
                     value = self._parse_color(dd)
                 elif key == 'バトンタッチ':
                     value = self._parse_baton_touch(dd)
