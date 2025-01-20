@@ -1256,7 +1256,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
-    "color": null,
+    "color": "white",
     "skills": [
       {
         "type": "推しスキル",
@@ -1403,6 +1403,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "100",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -1432,6 +1433,7 @@
     ],
     "rarity": "U",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "80",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -1445,7 +1447,10 @@
       {
         "type": "アーツ",
         "name": "おつこーんでしたー",
-        "dmg": "20"
+        "dmg": "20",
+        "icons": [
+          "white"
+        ]
       }
     ]
   },
@@ -1464,6 +1469,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "150",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -1471,13 +1477,17 @@
       {
         "type": "アーツ",
         "name": "キンモクセイの花フブキ",
-        "dmg": "40"
+        "dmg": "40",
+        "icons": [
+          "white"
+        ]
       },
       {
         "type": "アーツ",
         "name": "Thank You Friends♥",
         "dmg": "60",
         "icons": [
+          "white",
           "null"
         ]
       }
@@ -1498,6 +1508,7 @@
     ],
     "rarity": "U",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "120",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -1533,6 +1544,7 @@
     ],
     "rarity": "R",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "100",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -1549,6 +1561,7 @@
         "dmg": "50+",
         "description": "このターンの間、自分のマスコットが付いている[センターホロメンとコラボホロメン]のアーツ+20。",
         "icons": [
+          "white",
           "null"
         ]
       }
@@ -1569,6 +1582,7 @@
     ],
     "rarity": "RR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "180",
     "bloom_level": "2nd",
     "baton_touch": "null",
@@ -1585,6 +1599,8 @@
         "dmg": "80+",
         "description": "自分のステージのマスコット1枚につき、このアーツ+20。",
         "icons": [
+          "white",
+          "white",
           "null"
         ]
       }
@@ -1603,6 +1619,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "130",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -1630,6 +1647,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "180",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -1647,6 +1665,7 @@
         "name": "おつまっする～",
         "dmg": "60",
         "icons": [
+          "white",
           "null"
         ]
       }
@@ -1665,6 +1684,7 @@
     ],
     "rarity": "U",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "130",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -1699,6 +1719,7 @@
     ],
     "rarity": "RR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "260",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -1718,6 +1739,7 @@
         "dmg": "60+",
         "description": "[コラボポジション限定]自分のステージのこのホロメン以外の#3期生を持つホロメン1人につき、このアーツ+20。ただし、数える人数は4人まで。",
         "icons": [
+          "white",
           "null",
           "null"
         ]
@@ -4114,7 +4136,7 @@
     "card_type": "推しホロメン",
     "rarity": "OC",
     "product": "スタートエールセット",
-    "color": null,
+    "color": "white",
     "skills": [
       {
         "type": "推しスキル",
@@ -4194,7 +4216,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "スタートデッキ「ときのそら＆AZKi」",
-    "color": null,
+    "color": "white",
     "skills": [
       {
         "type": "推しスキル",
@@ -4239,6 +4261,7 @@
     ],
     "rarity": "C",
     "product": "スタートデッキ「ときのそら＆AZKi」",
+    "color": "white",
     "hp": "60",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -4266,6 +4289,7 @@
     ],
     "rarity": "R",
     "product": "スタートデッキ「ときのそら＆AZKi」",
+    "color": "white",
     "hp": "50",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -4299,6 +4323,7 @@
     ],
     "rarity": "U",
     "product": "スタートデッキ「ときのそら＆AZKi」",
+    "color": "white",
     "hp": "150",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -4306,13 +4331,17 @@
       {
         "type": "アーツ",
         "name": "ぬんぬんしよう",
-        "dmg": "30"
+        "dmg": "30",
+        "icons": [
+          "white"
+        ]
       },
       {
         "type": "アーツ",
         "name": "あなたの心は…くもりのち晴れ！",
         "dmg": "50",
         "icons": [
+          "white",
           "null"
         ]
       }
@@ -4331,6 +4360,7 @@
     ],
     "rarity": "RR",
     "product": "スタートデッキ「ときのそら＆AZKi」",
+    "color": "white",
     "hp": "240",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -4340,6 +4370,7 @@
         "name": "ドリームライブ",
         "dmg": "50",
         "icons": [
+          "white",
           "null"
         ]
       },
@@ -4349,6 +4380,7 @@
         "dmg": "60+",
         "description": "自分のステージにホロメンの〈AZKi〉がいる時、このアーツ+50。",
         "icons": [
+          "white",
           "green",
           "null"
         ]
@@ -4368,6 +4400,7 @@
     ],
     "rarity": "C",
     "product": "スタートデッキ「ときのそら＆AZKi」",
+    "color": "white",
     "hp": "50",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -4381,7 +4414,10 @@
       {
         "type": "アーツ",
         "name": "希望の化身",
-        "dmg": "20"
+        "dmg": "20",
+        "icons": [
+          "white"
+        ]
       }
     ]
   },
@@ -4601,6 +4637,7 @@
         "name": "へい",
         "dmg": "30",
         "icons": [
+          "white",
           "green"
         ]
       }
@@ -4731,7 +4768,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
-    "color": null,
+    "color": "white",
     "skills": [
       {
         "type": "推しスキル",
@@ -4751,7 +4788,7 @@
     "card_type": "推しホロメン",
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
-    "color": null,
+    "color": "white",
     "skills": [
       {
         "type": "推しスキル",
@@ -4896,6 +4933,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "90",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -4904,7 +4942,10 @@
         "type": "アーツ",
         "name": "こんかなた～",
         "dmg": "40",
-        "description": "このアーツは、相手のセンターホロメンしか対象にできない。"
+        "description": "このアーツは、相手のセンターホロメンしか対象にできない。",
+        "icons": [
+          "white"
+        ]
       }
     ]
   },
@@ -4921,6 +4962,7 @@
     ],
     "rarity": "U",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "60",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -4954,6 +4996,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "150",
     "bloom_level": "1st",
     "baton_touch": "yes",
@@ -4961,7 +5004,10 @@
       {
         "type": "アーツ",
         "name": "塩対応かなたそ",
-        "dmg": "20"
+        "dmg": "20",
+        "icons": [
+          "white"
+        ]
       }
     ]
   },
@@ -4978,6 +5024,7 @@
     ],
     "rarity": "U",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "120",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -5011,6 +5058,7 @@
     ],
     "rarity": "R",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "100",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -5026,6 +5074,7 @@
         "name": "エンジェルステージ",
         "dmg": "50",
         "icons": [
+          "white",
           "null"
         ]
       }
@@ -5044,6 +5093,7 @@
     ],
     "rarity": "RR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "200",
     "bloom_level": "2nd",
     "baton_touch": "null",
@@ -5058,7 +5108,12 @@
         "type": "アーツ",
         "name": "♰漆黒の翼♰",
         "dmg": "100",
-        "description": "このアーツで相手のホロメンをダウンさせた時、与えたダメージが残りHPを50以上オーバーしていれば、相手のライフ-１。"
+        "description": "このアーツで相手のホロメンをダウンさせた時、与えたダメージが残りHPを50以上オーバーしていれば、相手のライフ-１。",
+        "icons": [
+          "white",
+          "white",
+          "white"
+        ]
       }
     ]
   },
@@ -5076,6 +5131,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "90",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -5084,7 +5140,10 @@
         "type": "アーツ",
         "name": "Oh,Hi",
         "dmg": "10+",
-        "description": "このターンに自分がサポートカードを使っていた時、このアーツ+20。"
+        "description": "このターンに自分がサポートカードを使っていた時、このアーツ+20。",
+        "icons": [
+          "white"
+        ]
       }
     ]
   },
@@ -5102,6 +5161,7 @@
     ],
     "rarity": "U",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "60",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -5136,6 +5196,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "130",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -5143,13 +5204,17 @@
       {
         "type": "アーツ",
         "name": "一緒にお出かけ",
-        "dmg": "20"
+        "dmg": "20",
+        "icons": [
+          "white"
+        ]
       },
       {
         "type": "アーツ",
         "name": "コーヒーブレイク",
         "dmg": "60",
         "icons": [
+          "white",
           "null"
         ]
       }
@@ -5169,6 +5234,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "120",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -5177,7 +5243,10 @@
         "type": "アーツ",
         "name": "思い出の欠片",
         "dmg": "20+",
-        "description": "自分のデッキの上から１枚を公開できる：公開したカードが#Promiseを持つ時、このアーツ+20。そして公開したカードを手札に加える。"
+        "description": "自分のデッキの上から１枚を公開できる：公開したカードが#Promiseを持つ時、このアーツ+20。そして公開したカードを手札に加える。",
+        "icons": [
+          "white"
+        ]
       }
     ]
   },
@@ -5195,6 +5264,7 @@
     ],
     "rarity": "U",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "100",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -5229,6 +5299,7 @@
     ],
     "rarity": "R",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "190",
     "bloom_level": "2nd",
     "baton_touch": "null",
@@ -5245,6 +5316,7 @@
         "dmg": "70+",
         "description": "このターンの間、自分のバックホロメン１人につき、自分のセンターホロメンとコラボホロメンのアーツ+10。",
         "icons": [
+          "white",
           "null",
           "null"
         ]
@@ -5264,6 +5336,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "100",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -5271,7 +5344,10 @@
       {
         "type": "アーツ",
         "name": "みんな～こんそめ～",
-        "dmg": "30"
+        "dmg": "30",
+        "icons": [
+          "white"
+        ]
       }
     ]
   },
@@ -5288,6 +5364,7 @@
     ],
     "rarity": "U",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "110",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -5321,6 +5398,7 @@
     ],
     "rarity": "RR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "210",
     "bloom_level": "2nd",
     "baton_touch": "null",
@@ -5337,6 +5415,8 @@
         "dmg": "80",
         "description": "サイコロを１回振れる：奇数の時、同じホロメンに、このアーツをもう１回使う（このアーツはそのホロメンがダウンするまで繰り返せる）。",
         "icons": [
+          "white",
+          "white",
           "null"
         ]
       }
@@ -5354,6 +5434,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "100",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -5380,6 +5461,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "160",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -5387,13 +5469,17 @@
       {
         "type": "アーツ",
         "name": "温泉は飲まないでね！",
-        "dmg": "40"
+        "dmg": "40",
+        "icons": [
+          "white"
+        ]
       },
       {
         "type": "アーツ",
         "name": "温泉でくつろぐ一日を",
         "dmg": "60",
         "icons": [
+          "white",
           "null"
         ]
       }
@@ -5411,6 +5497,7 @@
     ],
     "rarity": "U",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "110",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -5443,6 +5530,7 @@
     ],
     "rarity": "RR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "200",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -5459,6 +5547,7 @@
         "dmg": "70+",
         "description": "自分のセンターホロメンが#IDを持つ時、このアーツ+50。",
         "icons": [
+          "white",
           "null",
           "null"
         ]
@@ -5478,6 +5567,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "100",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -5505,6 +5595,7 @@
     ],
     "rarity": "C",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "160",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -5514,6 +5605,7 @@
         "name": "清楚なネフィリムです！",
         "dmg": "50",
         "icons": [
+          "white",
           "null"
         ]
       }
@@ -5532,6 +5624,7 @@
     ],
     "rarity": "U",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "110",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -5565,6 +5658,7 @@
     ],
     "rarity": "R",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "200",
     "bloom_level": "2nd",
     "baton_touch": "null",
@@ -5581,6 +5675,7 @@
         "dmg": "50+",
         "description": "自分の#Promiseを持つホロメン１人につき、このアーツ+20。",
         "icons": [
+          "white",
           "null",
           "null"
         ]
@@ -8410,7 +8505,7 @@
     "card_type": "エール",
     "rarity": "C",
     "product": "スタートデッキ「ときのそら＆AZKi」ブースターパック「ブルーミングレディアンス」ブースターパック「クインテットスペクトラム」スタートエールセット",
-    "color": null
+    "color": "white"
   },
   "hY02-001-C": {
     "number": "hY02-001",
@@ -8460,7 +8555,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
-    "color": null,
+    "color": "white",
     "skills": [
       {
         "type": "推しスキル",
@@ -8480,7 +8575,7 @@
     "card_type": "推しホロメン",
     "rarity": "SEC",
     "product": "ブースターパック「クインテットスペクトラム」",
-    "color": null,
+    "color": "white",
     "skills": [
       {
         "type": "推しスキル",
@@ -8667,6 +8762,7 @@
     ],
     "rarity": "S",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "150",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -8674,13 +8770,17 @@
       {
         "type": "アーツ",
         "name": "キンモクセイの花フブキ",
-        "dmg": "40"
+        "dmg": "40",
+        "icons": [
+          "white"
+        ]
       },
       {
         "type": "アーツ",
         "name": "Thank You Friends♥",
         "dmg": "60",
         "icons": [
+          "white",
           "null"
         ]
       }
@@ -8701,6 +8801,7 @@
     ],
     "rarity": "S",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "120",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -8736,6 +8837,7 @@
     ],
     "rarity": "SR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "100",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -8752,6 +8854,7 @@
         "dmg": "50+",
         "description": "このターンの間、自分のマスコットが付いている[センターホロメンとコラボホロメン]のアーツ+20。",
         "icons": [
+          "white",
           "null"
         ]
       }
@@ -8772,6 +8875,7 @@
     ],
     "rarity": "SR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "180",
     "bloom_level": "2nd",
     "baton_touch": "null",
@@ -8788,6 +8892,8 @@
         "dmg": "80+",
         "description": "自分のステージのマスコット1枚につき、このアーツ+20。",
         "icons": [
+          "white",
+          "white",
           "null"
         ]
       }
@@ -8808,6 +8914,7 @@
     ],
     "rarity": "UR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "180",
     "bloom_level": "2nd",
     "baton_touch": "null",
@@ -8824,6 +8931,8 @@
         "dmg": "80+",
         "description": "自分のステージのマスコット1枚につき、このアーツ+20。",
         "icons": [
+          "white",
+          "white",
           "null"
         ]
       }
@@ -8842,6 +8951,7 @@
     ],
     "rarity": "S",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "180",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -8859,6 +8969,7 @@
         "name": "おつまっする～",
         "dmg": "60",
         "icons": [
+          "white",
           "null"
         ]
       }
@@ -8877,6 +8988,7 @@
     ],
     "rarity": "S",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "130",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -8911,6 +9023,7 @@
     ],
     "rarity": "SR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "260",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -8930,6 +9043,7 @@
         "dmg": "60+",
         "description": "[コラボポジション限定]自分のステージのこのホロメン以外の#3期生を持つホロメン1人につき、このアーツ+20。ただし、数える人数は4人まで。",
         "icons": [
+          "white",
           "null",
           "null"
         ]
@@ -8949,6 +9063,7 @@
     ],
     "rarity": "UR",
     "product": "ブースターパック「クインテットスペクトラム」",
+    "color": "white",
     "hp": "260",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -8968,6 +9083,7 @@
         "dmg": "60+",
         "description": "[コラボポジション限定]自分のステージのこのホロメン以外の#3期生を持つホロメン1人につき、このアーツ+20。ただし、数える人数は4人まで。",
         "icons": [
+          "white",
           "null",
           "null"
         ]
@@ -11539,6 +11655,7 @@
     ],
     "rarity": "P",
     "product": "PRカード",
+    "color": "white",
     "hp": "90",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -11547,7 +11664,10 @@
         "type": "アーツ",
         "name": "こんかなた～",
         "dmg": "40",
-        "description": "このアーツは、相手のセンターホロメンしか対象にできない。"
+        "description": "このアーツは、相手のセンターホロメンしか対象にできない。",
+        "icons": [
+          "white"
+        ]
       }
     ]
   },
@@ -11564,6 +11684,7 @@
     ],
     "rarity": "P",
     "product": "PRカード",
+    "color": "white",
     "hp": "120",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -11598,6 +11719,7 @@
     ],
     "rarity": "P",
     "product": "PRカード",
+    "color": "white",
     "hp": "90",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -11606,7 +11728,10 @@
         "type": "アーツ",
         "name": "Oh,Hi",
         "dmg": "10+",
-        "description": "このターンに自分がサポートカードを使っていた時、このアーツ+20。"
+        "description": "このターンに自分がサポートカードを使っていた時、このアーツ+20。",
+        "icons": [
+          "white"
+        ]
       }
     ]
   },
@@ -11624,6 +11749,7 @@
     ],
     "rarity": "P",
     "product": "PRカード",
+    "color": "white",
     "hp": "100",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -11657,6 +11783,7 @@
     ],
     "rarity": "P",
     "product": "PRカード",
+    "color": "white",
     "hp": "100",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -11664,7 +11791,10 @@
       {
         "type": "アーツ",
         "name": "みんな～こんそめ～",
-        "dmg": "30"
+        "dmg": "30",
+        "icons": [
+          "white"
+        ]
       }
     ]
   },
@@ -11681,6 +11811,7 @@
     ],
     "rarity": "P",
     "product": "PRカード",
+    "color": "white",
     "hp": "110",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -11713,6 +11844,7 @@
     ],
     "rarity": "P",
     "product": "PRカード",
+    "color": "white",
     "hp": "100",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -11739,6 +11871,7 @@
     ],
     "rarity": "P",
     "product": "PRカード",
+    "color": "white",
     "hp": "110",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -11772,6 +11905,7 @@
     ],
     "rarity": "P",
     "product": "PRカード",
+    "color": "white",
     "hp": "110",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -12639,6 +12773,7 @@
     ],
     "rarity": "P",
     "product": "PRカード",
+    "color": "white",
     "hp": "100",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -12668,6 +12803,7 @@
     ],
     "rarity": "P",
     "product": "PRカード",
+    "color": "white",
     "hp": "80",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -12681,7 +12817,10 @@
       {
         "type": "アーツ",
         "name": "おつこーんでしたー",
-        "dmg": "20"
+        "dmg": "20",
+        "icons": [
+          "white"
+        ]
       }
     ]
   },
@@ -12746,6 +12885,7 @@
     ],
     "rarity": "P",
     "product": "PRカード",
+    "color": "white",
     "hp": "50",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -12779,6 +12919,7 @@
     ],
     "rarity": "P",
     "product": "PRカード",
+    "color": "white",
     "hp": "50",
     "bloom_level": "Debut",
     "baton_touch": "null",
@@ -12792,7 +12933,10 @@
       {
         "type": "アーツ",
         "name": "希望の化身",
-        "dmg": "20"
+        "dmg": "20",
+        "icons": [
+          "white"
+        ]
       }
     ]
   },
@@ -12887,7 +13031,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
-    "color": null,
+    "color": "white",
     "skills": [
       {
         "type": "推しスキル",
@@ -12907,7 +13051,7 @@
     "card_type": "推しホロメン",
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
-    "color": null,
+    "color": "white",
     "skills": [
       {
         "type": "推しスキル",
@@ -13092,6 +13236,7 @@
     ],
     "rarity": "UR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "200",
     "bloom_level": "2nd",
     "baton_touch": "null",
@@ -13106,7 +13251,12 @@
         "type": "アーツ",
         "name": "♰漆黒の翼♰",
         "dmg": "100",
-        "description": "このアーツで相手のホロメンをダウンさせた時、与えたダメージが残りHPを50以上オーバーしていれば、相手のライフ-１。"
+        "description": "このアーツで相手のホロメンをダウンさせた時、与えたダメージが残りHPを50以上オーバーしていれば、相手のライフ-１。",
+        "icons": [
+          "white",
+          "white",
+          "white"
+        ]
       }
     ]
   },
@@ -13123,6 +13273,7 @@
     ],
     "rarity": "UR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "210",
     "bloom_level": "2nd",
     "baton_touch": "null",
@@ -13139,6 +13290,8 @@
         "dmg": "80",
         "description": "サイコロを１回振れる：奇数の時、同じホロメンに、このアーツをもう１回使う（このアーツはそのホロメンがダウンするまで繰り返せる）。",
         "icons": [
+          "white",
+          "white",
           "null"
         ]
       }
@@ -13156,6 +13309,7 @@
     ],
     "rarity": "UR",
     "product": "ブースターパック「ブルーミングレディアンス」",
+    "color": "white",
     "hp": "200",
     "bloom_level": "1st",
     "baton_touch": "null",
@@ -13172,6 +13326,7 @@
         "dmg": "70+",
         "description": "自分のセンターホロメンが#IDを持つ時、このアーツ+50。",
         "icons": [
+          "white",
           "null",
           "null"
         ]
@@ -13454,7 +13609,7 @@
     "card_type": "エール",
     "rarity": "SY",
     "product": "ブースターパック「クインテットスペクトラム」",
-    "color": null
+    "color": "white"
   },
   "hY02-002-SY": {
     "number": "hY02-002",
@@ -13504,6 +13659,6 @@
     "card_type": "エール",
     "rarity": "P",
     "product": "PRカード",
-    "color": null
+    "color": "white"
   }
 }

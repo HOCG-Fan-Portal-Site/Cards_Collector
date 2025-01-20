@@ -31,7 +31,8 @@ class CardMappings:
         'type_blue.png': 'blue',
         'type_yellow.png': 'yellow',
         'type_green.png': 'green',
-        'type_purple.png': 'purple'
+        'type_purple.png': 'purple',
+        'type_white.png': 'white'
     }
     
     DETAIL_MAPPING = {
@@ -48,7 +49,8 @@ class CardMappings:
         'arts_blue.png': 'blue',
         'arts_yellow.png': 'yellow',
         'arts_green.png': 'green',
-        'arts_purple.png': 'purple'
+        'arts_purple.png': 'purple',
+        'arts_white.png': 'white'
     }
     
     KEYWORD_SUBTYPES = {
