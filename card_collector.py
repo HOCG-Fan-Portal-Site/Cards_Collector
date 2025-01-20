@@ -19,6 +19,7 @@ class CardMappings:
     """集中管理所有卡片相關的映射關係"""
     
     FIELD_MAPPING = {
+        'LIFE': ('life', lambda x: int(x)),
         'カードタイプ': ('card_type', lambda x: x.strip()),
         'タグ': ('tags', lambda x: [tag.strip('#') for tag in x.strip().split()]),
         'レアリティ': ('rarity', lambda x: x.strip()),

@@ -8,6 +8,7 @@
     "rarity": "OC",
     "product": "スタートデッキ 紫 癒月ちょこ",
     "color": "purple",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -423,6 +424,7 @@
     "rarity": "OC",
     "product": "スタートデッキ 青 猫又おかゆ",
     "color": "blue",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -840,6 +842,7 @@
     "rarity": "OC",
     "product": "スタートデッキ 赤 百鬼あやめ",
     "color": "red",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -1257,6 +1260,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "white",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -1277,6 +1281,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "green",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -1297,6 +1302,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "red",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -1317,6 +1323,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "blue",
+    "life": 6,
     "skills": [
       {
         "type": "推しスキル",
@@ -1337,6 +1344,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "purple",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -1357,6 +1365,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "purple",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -1377,6 +1386,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "purple",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4137,6 +4147,7 @@
     "rarity": "OC",
     "product": "スタートエールセット",
     "color": "white",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4157,6 +4168,7 @@
     "rarity": "OC",
     "product": "スタートエールセット",
     "color": "green",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4177,6 +4189,7 @@
     "rarity": "OC",
     "product": "スタートエールセット",
     "color": "red",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4197,6 +4210,7 @@
     "rarity": "OC",
     "product": "スタートエールセット",
     "color": "blue",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4217,6 +4231,7 @@
     "rarity": "OSR",
     "product": "スタートデッキ「ときのそら＆AZKi」",
     "color": "white",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4237,6 +4252,7 @@
     "rarity": "OSR",
     "product": "スタートデッキ「ときのそら＆AZKi」",
     "color": "green",
+    "life": 6,
     "skills": [
       {
         "type": "推しスキル",
@@ -4700,6 +4716,7 @@
     "rarity": "P",
     "product": "PRカード",
     "color": "green",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4720,6 +4737,7 @@
     "rarity": "P",
     "product": "PRカード",
     "color": "purple",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4769,6 +4787,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "white",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4789,6 +4808,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "white",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4809,6 +4829,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "green",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4829,6 +4850,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "green",
+    "life": 6,
     "skills": [
       {
         "type": "推しスキル",
@@ -4849,6 +4871,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "red",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4869,6 +4892,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "red",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4889,6 +4913,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "blue",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -4909,6 +4934,7 @@
     "rarity": "OSR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "blue",
+    "life": 6,
     "skills": [
       {
         "type": "推しスキル",
@@ -8556,6 +8582,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "white",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -8576,6 +8603,7 @@
     "rarity": "SEC",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "white",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -8596,6 +8624,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "green",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -8616,6 +8645,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "red",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -8636,6 +8666,7 @@
     "rarity": "SEC",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "red",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -8656,6 +8687,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "blue",
+    "life": 6,
     "skills": [
       {
         "type": "推しスキル",
@@ -8676,6 +8708,7 @@
     "rarity": "SEC",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "blue",
+    "life": 6,
     "skills": [
       {
         "type": "推しスキル",
@@ -8696,6 +8729,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "purple",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -8716,6 +8750,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "purple",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -8736,6 +8771,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「クインテットスペクトラム」",
     "color": "purple",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -13032,6 +13068,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "white",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -13052,6 +13089,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "white",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -13072,6 +13110,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "green",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -13092,6 +13131,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "green",
+    "life": 6,
     "skills": [
       {
         "type": "推しスキル",
@@ -13112,6 +13152,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "red",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -13132,6 +13173,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "red",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -13152,6 +13194,7 @@
     "rarity": "SEC",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "red",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -13172,6 +13215,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "blue",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -13192,6 +13236,7 @@
     "rarity": "SEC",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "blue",
+    "life": 5,
     "skills": [
       {
         "type": "推しスキル",
@@ -13212,6 +13257,7 @@
     "rarity": "OUR",
     "product": "ブースターパック「ブルーミングレディアンス」",
     "color": "blue",
+    "life": 6,
     "skills": [
       {
         "type": "推しスキル",
