@@ -45,7 +45,7 @@ class CardMappings:
     }
     
     ICON_MAPPING = {
-        'arts_null.png': 'null',
+        'arts_null.png': 'any',
         'arts_red.png': 'red',
         'arts_blue.png': 'blue',
         'arts_yellow.png': 'yellow',
@@ -158,9 +158,27 @@ class CardParser:
         return None
     
     def _parse_baton_touch(self, element):
-        """解析接力信息"""
-        img = element.find('img')
-        return 'null' if img and 'arts_null.png' in img.get('src', '') else 'yes'
+        """解析接力信息
+        返回接力位置列表，每個位置可以是：
+        - 'any': 表示可以接任意顏色（顯示為null圖標）
+        - 'no': 表示該位置不能接力（沒有圖標）
+        """
+        result = []
+        icons = element.find_all('img')
+        
+        # 如果沒有任何圖標，表示不能接力
+        if not icons:
+            return ['no']
+            
+        # 解析每個圖標
+        for img in icons:
+            src = img.get('src', '')
+            for icon_src, color in CardMappings.ICON_MAPPING.items():
+                if icon_src in src:
+                    result.append(color)
+                    break
+                
+        return result 
     
     def _is_support_card(self):
         """檢查是否為支援卡片"""
@@ -256,13 +274,24 @@ class CardParser:
     def _parse_skill_icons(self, skill_div):
         """解析技能圖標"""
         icons = []
-        for img in skill_div.find_all('img'):
+        # 先處理主要圖標
+        for img in skill_div.select('img:not(.tokkou img)'):  # 排除tokkou中的圖標
             src = img.get('src', '')
             for icon_src, color in CardMappings.ICON_MAPPING.items():
                 if icon_src in src:
                     icons.append(color)
                     break
-        return icons if icons else None
+        
+        result = {'main': icons if icons else None}
+        
+        # 處理tokkou圖標
+        tokkou_span = skill_div.find('span', class_='tokkou')
+        if tokkou_span and tokkou_span.find('img'):
+            tokkou_alt = tokkou_span.find('img').get('alt', '')
+            if tokkou_alt:
+                result['tokkou'] = [tokkou_alt]
+                
+        return result
 
 
 class CardCollector:
