@@ -24,7 +24,10 @@ class CardMappings:
         'タグ': ('tags', lambda x: [tag.strip('#') for tag in x.strip().split()]),
         'レアリティ': ('rarity', lambda x: x.strip()),
         '収録商品': ('product', lambda x: x.strip()),
-        '色': ('color', lambda self, x: self._parse_color(x))
+        '色': ('color', lambda x: x.strip()),
+        'HP': ('hp', lambda x: x.strip()),
+        'Bloomレベル': ('bloom_level', lambda x: x.strip()),
+        'バトンタッチ': ('baton_touch', lambda x: x.strip())
     }
     
     COLOR_MAPPING = {
@@ -92,7 +95,7 @@ class CardParser:
                 field = dt.text.strip()
                 if field in CardMappings.FIELD_MAPPING:
                     key, transform = CardMappings.FIELD_MAPPING[field]
-                    self.card_data[key] = transform(self, dd) if field == '色' else transform(dd.text)
+                    self.card_data[key] = transform(dd.text)
         except Exception as e:
             logging.error(f"Error parsing card info: {e}")
     
@@ -109,12 +112,7 @@ class CardParser:
                     continue
                     
                 field_name = CardMappings.DETAIL_MAPPING[key]
-                if key == '色' and 'color' not in self.card_data:  # Only set color if not already set
-                    value = self._parse_color(dd)
-                elif key == 'バトンタッチ':
-                    value = self._parse_baton_touch(dd)
-                else:
-                    value = dd.text.strip()
+                value = dd.text.strip()
                 
                 if value:
                     self.card_data[field_name] = value
@@ -215,10 +213,11 @@ class CardParser:
             # 解析技能文本
             skill_data.update(self._parse_skill_text(skill_text, skill_type))
             
-            # 解析技能圖標
-            icons = self._parse_skill_icons(skill_div)
-            if icons:
-                skill_data['icons'] = icons
+            # 只在非推し技能時解析技能圖標
+            if skill_type not in ['推しスキル', 'SP推しスキル', 'キーワード']:
+                icons = self._parse_skill_icons(skill_div)
+                if icons:
+                    skill_data['icons'] = icons
             
             return skill_data
         except Exception as e:
@@ -292,6 +291,13 @@ class CardParser:
                 result['tokkou'] = [tokkou_alt]
                 
         return result
+    
+    def parse_id(self):
+        """解析卡片的唯一識別碼"""
+        image_url = self.card_data.get('image_url', '')
+        card_id = image_url.split('/')[-1].split('.')[0] if image_url else f"{self.card_data['number']}-{self.card_data.get('rarity', '')}"
+        self.card_data['id'] = card_id
+        return card_id
 
 
 class CardCollector:
@@ -329,10 +335,11 @@ class CardCollector:
             parser.parse_card_info()
             parser.parse_detail_info()
             parser.parse_skills()
-            return parser.card_data
+            card_key = parser.parse_id()
+            return parser.card_data, card_key
         except Exception as e:
             logging.error(f"Error parsing card: {e}")
-            return None
+            return None, None
 
     def fetch_cards(self):
         page = 1
@@ -369,9 +376,8 @@ class CardCollector:
                 
                 for card_element in cards:
                     page_processed_count += 1
-                    card_data = self.parse_card(card_element)
+                    card_data, card_key = self.parse_card(card_element)
                     if card_data:
-                        card_key = f"{card_data['number']}-{card_data.get('rarity', '')}"
                         if card_key not in all_cards:
                             all_cards[card_key] = card_data
                             page_new_cards_count += 1
