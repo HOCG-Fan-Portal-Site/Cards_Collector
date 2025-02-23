@@ -1,72 +1,10 @@
-import requests
-from bs4 import BeautifulSoup
-import json
-import os
-import time
+"""負責解析卡片數據的模組"""
+import re
 import logging
-
-# Set up logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler('card_collector.log'),
-        logging.StreamHandler()
-    ]
-)
-
-class CardMappings:
-    """集中管理所有卡片相關的映射關係"""
-    
-    FIELD_MAPPING = {
-        'LIFE': ('life', lambda x: int(x)),
-        'カードタイプ': ('card_type', lambda x: x.strip()),
-        'タグ': ('tags', lambda x: [tag.strip('#') for tag in x.strip().split()]),
-        'レアリティ': ('rarity', lambda x: x.strip()),
-        '収録商品': ('product', lambda x: x.strip()),
-        '色': ('color', lambda x: x.strip()),
-        'HP': ('hp', lambda x: x.strip()),
-        'Bloomレベル': ('bloom_level', lambda x: x.strip()),
-        'バトンタッチ': ('baton_touch', lambda x: x.strip())
-    }
-    
-    COLOR_MAPPING = {
-        'type_red.png': 'red',
-        'type_blue.png': 'blue',
-        'type_yellow.png': 'yellow',
-        'type_green.png': 'green',
-        'type_purple.png': 'purple',
-        'type_white.png': 'white'
-    }
-    
-    DETAIL_MAPPING = {
-        '色': 'color',
-        'HP': 'hp',
-        'LIFE': 'life',
-        'Bloomレベル': 'bloom_level',
-        'バトンタッチ': 'baton_touch'
-    }
-    
-    ICON_MAPPING = {
-        'arts_null.png': 'any',
-        'arts_red.png': 'red',
-        'arts_blue.png': 'blue',
-        'arts_yellow.png': 'yellow',
-        'arts_green.png': 'green',
-        'arts_purple.png': 'purple',
-        'arts_white.png': 'white'
-    }
-    
-    KEYWORD_SUBTYPES = {
-        'bloomEF.png': 'ブルームエフェクト',
-        'collabEF.png': 'コラボエフェクト',
-        'gift.png': 'ギフト'
-    }
-
+from bs4 import BeautifulSoup
+from src.models.card_mappings import CardMappings
 
 class CardParser:
-    """負責解析卡片數據的類"""
-    
     def __init__(self, card_element):
         self.card_element = card_element
         self.card_data = {}
@@ -247,7 +185,6 @@ class CardParser:
         parts = skill_text.split('\n', 1)
         first_part = parts[0].strip()
         
-        import re
         match = re.match(r'^(.+?)\s*(\d+\+?|\?\+?)$', first_part)
         if not match:
             return {'text': skill_text}
@@ -298,125 +235,3 @@ class CardParser:
         card_id = image_url.split('/')[-1].split('.')[0] if image_url else f"{self.card_data['number']}-{self.card_data.get('rarity', '')}"
         self.card_data['id'] = card_id
         return card_id
-
-
-class CardCollector:
-    def __init__(self):
-        self.base_url = 'https://hololive-official-cardgame.com/cardlist/cardsearch_ex'
-        self.headers = {
-            'Cookie': 'cardlist_view=text; cardlist_search_sort=new'
-        }
-        self.data_file = 'card_data.json'
-        self.existing_cards = self.load_existing_data()
-
-    def load_existing_data(self):
-        try:
-            if os.path.exists(self.data_file):
-                with open(self.data_file, 'r', encoding='utf-8') as f:
-                    return json.load(f)
-            return {}
-        except Exception as e:
-            logging.error(f"Error loading existing data: {e}")
-            return {}
-
-    def save_data(self, data):
-        try:
-            with open(self.data_file, 'w', encoding='utf-8') as f:
-                json.dump(data, ensure_ascii=False, indent=2, fp=f)
-            logging.info("Data saved successfully")
-        except Exception as e:
-            logging.error(f"Error saving data: {e}")
-
-    def parse_card(self, card_element):
-        """解析卡片元素並返回卡片數據"""
-        try:
-            parser = CardParser(card_element)
-            parser.parse_basic_info()
-            parser.parse_card_info()
-            parser.parse_detail_info()
-            parser.parse_skills()
-            card_key = parser.parse_id()
-            return parser.card_data, card_key
-        except Exception as e:
-            logging.error(f"Error parsing card: {e}")
-            return None, None
-
-    def fetch_cards(self):
-        page = 1
-        all_cards = self.existing_cards.copy()
-        total_processed_count = 0
-        total_new_cards_count = 0
-        
-        while True:
-            try:
-                logging.info(f"Processing page {page}")
-                params = {
-                    'keyword': '',
-                    'attribute[0]': 'all',
-                    'expansion_name': '',
-                    'card_kind[0]': 'all',
-                    'rare[0]': 'all',
-                    'bloom_level[0]': 'all',
-                    'parallel[0]': 'all',
-                    'page': str(page)
-                }
-                
-                response = requests.get(self.base_url, headers=self.headers, params=params)
-                response.raise_for_status()
-                
-                soup = BeautifulSoup(response.text, 'html.parser')
-                cards = soup.find_all('li', class_='ex-item')
-                
-                if not cards:
-                    logging.info(f"No more cards found on page {page}")
-                    break
-                
-                page_processed_count = 0
-                page_new_cards_count = 0
-                
-                for card_element in cards:
-                    page_processed_count += 1
-                    card_data, card_key = self.parse_card(card_element)
-                    if card_data:
-                        if card_key not in all_cards:
-                            all_cards[card_key] = card_data
-                            page_new_cards_count += 1
-                            logging.info(f"Added new card: {card_key}")
-                
-                total_processed_count += page_processed_count
-                total_new_cards_count += page_new_cards_count
-                
-                logging.info(f"Page {page} completed. Cards processed: {page_processed_count}, New cards: {page_new_cards_count}")
-                
-                # 保存每頁的進度
-                self.save_data(all_cards)
-                
-                # 繼續下一頁
-                page += 1
-                time.sleep(1)  # 避免請求過於頻繁
-                
-            except Exception as e:
-                logging.error(f"Error on page {page}: {e}")
-                break
-        
-        # 最終總結
-        logging.info(f"Finished processing all pages. Total cards processed: {total_processed_count}, Total new cards: {total_new_cards_count}")
-        print(f"\nFinal Summary:")
-        print(f"Total pages processed: {page}")
-        print(f"Total cards processed: {total_processed_count}")
-        print(f"New cards added: {total_new_cards_count}")
-        print(f"Existing cards: {len(self.existing_cards)}")
-        print(f"Total cards in database: {len(all_cards)}")
-
-def run_collector():
-    collector = CardCollector()
-    collector.fetch_cards()
-
-def main():
-    logging.info("Card Collector started")
-    
-    # Run immediately on start
-    run_collector()
-
-if __name__ == "__main__":
-    main()

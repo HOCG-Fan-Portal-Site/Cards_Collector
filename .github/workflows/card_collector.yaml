@@ -21,16 +21,25 @@ jobs:
           python-version: '3.x'
       
       - name: Install dependencies
+        working-directory: ./cron_jobs/card_collector
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       
       - name: Run card collector
-        run: python card_collector.py
+        working-directory: ./cron_jobs/card_collector
+        run: python -m src
       
       - name: Upload results
         uses: actions/upload-artifact@v4
         with:
           name: card-collection-results
-          path: card_data.json
+          path: cron_jobs/card_collector/data/card_data.json
+          retention-days: 7
+      
+      - name: Upload logs
+        uses: actions/upload-artifact@v4
+        with:
+          name: card-collection-logs
+          path: cron_jobs/card_collector/logs/card_collector.log
           retention-days: 7
