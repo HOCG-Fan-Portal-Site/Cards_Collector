@@ -1,5 +1,9 @@
 name: Card Collector Workflow
 
+permissions:
+  contents: write
+  pull-requests: write
+
 on:
   # 支援手動觸發
   workflow_dispatch:
@@ -54,7 +58,7 @@ jobs:
         if: steps.check-changes.outputs.changes_detected == 'true'
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.CASVAL_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Update card data with new cards"
           title: "🃏 Update card data with new cards"
           body: |
