@@ -43,3 +43,24 @@ jobs:
           name: card-collection-logs
           path: cron_jobs/card_collector/logs/card_collector.log
           retention-days: 7
+      
+      - name: Check for changes
+        id: check-changes
+        uses: ./.github/actions/check-file-changes
+        with:
+          file-path: cron_jobs/card_collector/data/card_data.json
+      
+      - name: Create Pull Request
+        if: steps.check-changes.outputs.changes_detected == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Update card data with new cards"
+          title: "🃏 Update card data with new cards"
+          body: |
+            This PR updates the card data with newly added cards.
+            
+            Automated PR created by the Card Collector workflow.
+          branch: update-card-data
+          base: main
+          delete-branch: true
