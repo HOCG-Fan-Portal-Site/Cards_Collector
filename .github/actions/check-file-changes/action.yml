@@ -1,0 +1,25 @@
+name: 'Check File Changes'
+description: 'Checks if a file has changes compared to the repository state'
+inputs:
+  file-path:
+    description: 'Path to the file to check for changes'
+    required: true
+outputs:
+  changes_detected:
+    description: 'Whether changes were detected in the file (true/false)'
+    value: ${{ steps.check.outputs.changes_detected }}
+runs:
+  using: "composite"
+  steps:
+    - id: check
+      shell: bash
+      run: |
+        # Use git status to check for changes in a more elegant way
+        # This avoids staging changes and is more direct
+        if git status --porcelain ${{ inputs.file-path }} | grep -q "${{ inputs.file-path }}"; then
+          echo "Changes detected in ${{ inputs.file-path }}"
+          echo "changes_detected=true" >> $GITHUB_OUTPUT
+        else
+          echo "No changes detected in ${{ inputs.file-path }}"
+          echo "changes_detected=false" >> $GITHUB_OUTPUT
+        fi
