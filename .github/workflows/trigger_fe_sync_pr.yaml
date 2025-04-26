@@ -1,0 +1,60 @@
+name: Sync Public Data to FE After Merge
+
+on:
+  pull_request:
+    types:
+      - closed
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync-to-fe:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true && startsWith(github.event.pull_request.head.ref, 'update-card-data')
+    steps:
+      - name: Checkout server repo
+        uses: actions/checkout@v4
+        with:
+          path: server-repo
+
+      - name: Checkout FE repo
+        uses: actions/checkout@v4
+        with:
+          repository: HOCG-Fan-Portal-Site/HOCG-Portal-FE
+          token: ${{ secrets.FE_UPDATE_PAT }}
+          ref: main
+          path: fe-repo
+
+      - name: Copy updated public files
+        run: |
+          mkdir -p fe-repo/public
+          cp server-repo/cron_jobs/card_collector/data/card_data.json fe-repo/public/card_data.json
+
+      - name: Commit changes to FE repo
+        working-directory: fe-repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b update-public-data-${{ github.run_id }}
+          git add public/
+          git commit -m "Update public data files (card_data.json)"
+          git push origin update-public-data-${{ github.run_id }}
+
+      - name: Create Pull Request to FE repo
+        uses: ./server-repo/.github/actions/create-cross-repo-pr
+        with:
+          token: ${{ secrets.FE_UPDATE_PAT }}
+          owner: HOCG-Fan-Portal-Site
+          repo: HOCG-Portal-FE
+          head: update-public-data-${{ github.run_id }}
+          base: main
+          title: "🔄 Update public data files from server"
+          body: |
+            This PR updates the public directory with the latest card data.
+            
+            Automated PR created by server repo after merge.
+          labels: "auto-update"
