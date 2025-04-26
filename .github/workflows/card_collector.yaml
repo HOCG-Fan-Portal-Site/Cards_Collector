@@ -70,6 +70,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: server-repo
+          ref: update-card-data-${{ github.run_id }}
 
       - name: Checkout FE repo
         uses: actions/checkout@v4
