@@ -1,11 +1,9 @@
 name: Card Collector Workflow
 
 on:
-  # 支援手動觸發
   workflow_dispatch:
-  # 支援定時觸發 (每天凌晨 2 點)
   schedule:
-    - cron: '0 0 * * *'  # UTC 時間 00:00 (台灣時間 08:00)
+    - cron: '0 0 * * *'  # 每天台灣時間08:00
 
 jobs:
   collect-cards:
@@ -13,9 +11,11 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
-    
+    outputs:
+      changes_detected: ${{ steps.check-changes.outputs.changes_detected }}
+
     steps:
-      - name: Checkout repository
+      - name: Checkout server repo
         uses: actions/checkout@v4
       
       - name: Set up Python
@@ -32,20 +32,13 @@ jobs:
       - name: Run card collector
         working-directory: ./cron_jobs/card_collector
         run: python -m src
-      
-      - name: Upload results
-        uses: actions/upload-artifact@v4
-        with:
-          name: card-collection-results
-          path: cron_jobs/card_collector/data/card_data.json
-          retention-days: 7
-      
+
       - name: Upload logs
         uses: actions/upload-artifact@v4
         with:
           name: card-collection-logs
           path: cron_jobs/card_collector/logs/card_collector.log
-          retention-days: 7
+          retention-days: 3
       
       - name: Check for changes
         id: check-changes
@@ -53,7 +46,7 @@ jobs:
         with:
           file-path: cron_jobs/card_collector/data/card_data.json
       
-      - name: Create Pull Request
+      - name: Create Pull Request to update server data
         if: steps.check-changes.outputs.changes_detected == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
@@ -62,8 +55,8 @@ jobs:
           title: "🃏 Update card data with new cards"
           body: |
             This PR updates the card data with newly added cards.
-            
             Automated PR created by the Card Collector workflow.
-          branch: update-card-data-${{ github.run_number }}-${{ github.run_attempt }}
+          branch: update-card-data-${{ github.run_id }}
           base: main
           delete-branch: true
+    
