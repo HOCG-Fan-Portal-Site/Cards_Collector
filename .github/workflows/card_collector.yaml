@@ -97,7 +97,7 @@ jobs:
           git push origin update-public-data-${{ github.run_id }}
 
       - name: Create Pull Request to FE repo
-        uses: ./.github/actions/create-cross-repo-pr
+        uses: ./server-repo/.github/actions/create-cross-repo-pr
         with:
           token: ${{ secrets.FE_UPDATE_PAT }}
           owner: HOCG-Fan-Portal-Site
