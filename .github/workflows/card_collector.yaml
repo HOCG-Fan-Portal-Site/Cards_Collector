@@ -64,6 +64,6 @@ jobs:
             This PR updates the card data with newly added cards.
             
             Automated PR created by the Card Collector workflow.
-          branch: update-card-data
+          branch: update-card-data-${{ github.run_number }}-${{ github.run_attempt }}
           base: main
           delete-branch: true
