@@ -66,27 +66,34 @@ jobs:
     if: needs.collect-cards.outputs.changes_detected == 'true'
 
     steps:
+      - name: Checkout server repo
+        uses: actions/checkout@v4
+        with:
+          path: server-repo
+
       - name: Checkout FE repo
         uses: actions/checkout@v4
         with:
           repository: HOCG-Fan-Portal-Site/HOCG-Portal-FE
           token: ${{ secrets.FE_UPDATE_PAT }}
           ref: main
+          path: fe-repo
 
       - name: Copy updated public files
         run: |
-          mkdir -p public
-          cp ../cron_jobs/card_collector/data/card_data.json public/card_data.json
-          # 如果未來有其他檔案可以繼續 cp 加上來
+          mkdir -p fe-repo/public
+          cp server-repo/cron_jobs/card_collector/data/card_data.json fe-repo/public/card_data.json
+          cd fe-repo
           git status
 
       - name: Commit changes
         run: |
+          cd fe-repo
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b update-public-data-${{ github.run_id }}
           git add public/
-          git commit -m "Update public data files (card_data.json and more)"
+          git commit -m "Update public data files (card_data.json)"
           git push origin update-public-data-${{ github.run_id }}
 
       - name: Create Pull Request to FE repo
