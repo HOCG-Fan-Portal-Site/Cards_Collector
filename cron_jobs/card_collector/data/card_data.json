@@ -24906,5 +24906,305 @@
     "product": "PRカード",
     "color": "",
     "id": "hY06-003_P"
+  },
+  "hBP03-027_C_2": {
+    "number": "hBP03-027",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-027_C_2.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "C",
+    "product": "ブースターパック「エリートスパーク」",
+    "hp": "150",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "エリートな水着",
+        "dmg": "40",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "ぷにち",
+        "dmg": "60",
+        "icons": {
+          "main": [
+            "red",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP03-027_C_2"
+  },
+  "hBD24-008_P": {
+    "number": "hBD24-008",
+    "name": "ベスティア・ゼータ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-008_P.png",
+    "image_alt": "ベスティア・ゼータ",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ホワイトエンハンス[ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～White～[ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-008_P"
+  },
+  "hBD24-013_P": {
+    "number": "hBD24-013",
+    "name": "紫咲シオン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-013_P.png",
+    "image_alt": "紫咲シオン",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]パープルエンハンス[ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Purple～[ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-013_P"
+  },
+  "hBD24-014_P": {
+    "number": "hBD24-014",
+    "name": "こぼ・かなえる",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-014_P.png",
+    "image_alt": "こぼ・かなえる",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ブルーエンハンス[ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Blue～[ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-014_P"
+  },
+  "hBP03-027_S_2": {
+    "number": "hBP03-027",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-027_S_2.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "S",
+    "product": "ブースターパック「エリートスパーク」",
+    "hp": "150",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "エリートな水着",
+        "dmg": "40",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "ぷにち",
+        "dmg": "60",
+        "icons": {
+          "main": [
+            "red",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP03-027_S_2"
+  },
+  "hBP01-108_P": {
+    "number": "hBP01-108",
+    "name": "じゃあ敵だね",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-108_P.png",
+    "image_alt": "じゃあ敵だね",
+    "card_type": "サポート・イベント・LIMITED",
+    "rarity": "P",
+    "product": "PRカード",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "相手のセンターホロメンとバックホロメン１人を交代させる。\n\nLIMITED：ターンに１枚しか使えない。"
+      }
+    ],
+    "id": "hBP01-108_P"
+  },
+  "hBP03-006_P": {
+    "number": "hBP03-006",
+    "name": "戌神ころね",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-006_P.png",
+    "image_alt": "戌神ころね",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 6,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]無限の体力[ターンに1回]自分のお休みしている〈戌神ころね〉1人をアクティブにする。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-3]ウォウウォウウォウウォウ[ゲームに1回]自分の黄ホロメンがダウンした時に使える：そのホロメンのエール1枚を自分の他のホロメンに付け替え、そのダウンしたホロメンを含め重なっているホロメンの中から1枚を手札に戻す。"
+      }
+    ],
+    "id": "hBP03-006_P"
+  },
+  "hBP03-014_P": {
+    "number": "hBP03-014",
+    "name": "姫森ルーナ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-014_P.png",
+    "image_alt": "姫森ルーナ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "ベイビー"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "180",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "ルーナについてくるのら～",
+        "description": "自分の推しホロメンが〈姫森ルーナ〉の時、自分のアーカイブの〈ルーナイト〉1枚を自分の〈姫森ルーナ〉に付けられる。"
+      },
+      {
+        "type": "アーツ",
+        "name": "お疲れ様なのらね",
+        "dmg": "100+",
+        "description": "このホロメンに〈ルーナイト〉が付いている時、このアーツ+50。",
+        "icons": {
+          "main": [
+            "white",
+            "white",
+            "any"
+          ],
+          "tokkou": [
+            "紫+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP03-014_P"
+  },
+  "hSD01-013_P": {
+    "number": "hSD01-013",
+    "name": "SorAZ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD01-013_P.png",
+    "image_alt": "SorAZ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "130",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "越えたい未来",
+        "dmg": "50",
+        "description": "サイコロを１回振れる：奇数の時、自分のエールデッキの上から１枚を、このホロメンに送る。偶数の時、自分のデッキを１枚引く。",
+        "icons": {
+          "main": [
+            "any",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD01-013_P"
+  },
+  "hY03-005_P": {
+    "number": "hY03-005",
+    "name": "赤エール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY03-005_P.png",
+    "image_alt": "赤エール",
+    "card_type": "エール",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "id": "hY03-005_P"
+  },
+  "hY03-006_P": {
+    "number": "hY03-006",
+    "name": "赤エール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY03-006_P.png",
+    "image_alt": "赤エール",
+    "card_type": "エール",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "id": "hY03-006_P"
+  },
+  "hY03-007_P": {
+    "number": "hY03-007",
+    "name": "赤エール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY03-007_P.png",
+    "image_alt": "赤エール",
+    "card_type": "エール",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "id": "hY03-007_P"
+  },
+  "hY03-008_P": {
+    "number": "hY03-008",
+    "name": "赤エール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY03-008_P.png",
+    "image_alt": "赤エール",
+    "card_type": "エール",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "id": "hY03-008_P"
   }
 }
