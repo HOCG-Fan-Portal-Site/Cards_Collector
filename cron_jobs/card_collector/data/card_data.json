@@ -25206,5 +25206,85 @@
     "product": "PRカード",
     "color": "",
     "id": "hY03-008_P"
+  },
+  "hBP01-104_SR": {
+    "number": "hBP01-104",
+    "name": "ふつうのパソコン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-104_SR.png",
+    "image_alt": "ふつうのパソコン",
+    "card_type": "サポート・アイテム",
+    "rarity": "SR",
+    "product": "【イベント物販／hololive production OFFICIAL SHOP限定商品】オフィシャルホロカコレクション-PCセット-",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のデッキから、Debutホロメン１枚を公開し、ステージに出す。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBP01-104_SR"
+  },
+  "hBP02-076_SR": {
+    "number": "hBP02-076",
+    "name": "カスタムパソコン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP02-076_SR.png",
+    "image_alt": "カスタムパソコン",
+    "card_type": "サポート・アイテム",
+    "rarity": "SR",
+    "product": "【イベント物販／hololive production OFFICIAL SHOP限定商品】オフィシャルホロカコレクション-PCセット-",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分の手札のDebutホロメン1枚を公開し、デッキの下に戻す。自分のデッキから、戻したホロメンと同じカード名のBuzz以外の1stホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBP02-076_SR"
+  },
+  "hBP02-077_SR": {
+    "number": "hBP02-077",
+    "name": "レトロパソコン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP02-077_SR.png",
+    "image_alt": "レトロパソコン",
+    "card_type": "サポート・アイテム・LIMITED",
+    "rarity": "SR",
+    "product": "【イベント物販／hololive production OFFICIAL SHOP限定商品】オフィシャルホロカコレクション-PCセット-",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このカードは、自分のライフが3以下でなければ使えない。\n\n自分のアーカイブのホロメン１枚を手札に戻す。\n\nLIMITED：ターンに１枚しか使えない。"
+      }
+    ],
+    "id": "hBP02-077_SR"
+  },
+  "hSD01-018_SR": {
+    "number": "hSD01-018",
+    "name": "サブパソコン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD01-018_SR.png",
+    "image_alt": "サブパソコン",
+    "card_type": "サポート・アイテム",
+    "rarity": "SR",
+    "product": "【イベント物販／hololive production OFFICIAL SHOP限定商品】オフィシャルホロカコレクション-PCセット-",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のデッキの上から５枚を見る。その中から、LIMITEDのサポートカード１枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。"
+      }
+    ],
+    "id": "hSD01-018_SR"
+  },
+  "hSD01-019_SR": {
+    "number": "hSD01-019",
+    "name": "スゴイパソコン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD01-019_SR.png",
+    "image_alt": "スゴイパソコン",
+    "card_type": "サポート・アイテム・LIMITED",
+    "rarity": "SR",
+    "product": "【イベント物販／hololive production OFFICIAL SHOP限定商品】オフィシャルホロカコレクション-PCセット-",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このカードは、自分のステージのエール１枚をアーカイブしなければ使えない。\n\n自分のデッキから、Buzz以外の[１stホロメンか２ndホロメン]１枚を公開し、手札に加える。そしてデッキをシャッフルする。\n\nLIMITED：ターンに１枚しか使えない。"
+      }
+    ],
+    "id": "hSD01-019_SR"
   }
 }
