@@ -25286,5 +25286,405 @@
       }
     ],
     "id": "hSD01-019_SR"
+  },
+  "hBD24-012_P": {
+    "number": "hBD24-012",
+    "name": "白銀ノエル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-012_P.png",
+    "image_alt": "白銀ノエル",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ホワイトエンハンス[ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～White～[ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-012_P"
+  },
+  "hBD24-015_P": {
+    "number": "hBD24-015",
+    "name": "百鬼あやめ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-015_P.png",
+    "image_alt": "百鬼あやめ",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]レッドエンハンス[ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Red～[ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-015_P"
+  },
+  "hBD24-016_P": {
+    "number": "hBD24-016",
+    "name": "沙花叉クロヱ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-016_P.png",
+    "image_alt": "沙花叉クロヱ",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ブルーエンハンス[ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Anniversary Gift ～Blue～[ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-016_P"
+  },
+  "hBP01-126_P_02": {
+    "number": "hBP01-126",
+    "name": "座員",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-126_P_02.png",
+    "image_alt": "座員",
+    "card_type": "サポート・ファン",
+    "rarity": "P",
+    "product": "PRカード",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "■このファンが付いているホロメンがアーツを使う時、このファンを赤エールとしても扱う。\n■このファンが付いているホロメンが受けるダメージ+10。\n\nこのファンは、自分の〈尾丸ポルカ〉だけに付けられ、１人につき何枚でも付けられる。"
+      }
+    ],
+    "id": "hBP01-126_P_02"
+  },
+  "hBP03-016_P": {
+    "number": "hBP03-016",
+    "name": "獅白ぼたん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-016_P.png",
+    "image_alt": "獅白ぼたん",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "5期生",
+      "ケモミミ",
+      "シューター"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "ららーいおん♪",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP03-016_P"
+  },
+  "hBP03-025_P": {
+    "number": "hBP03-025",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-025_P.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "にゃっはろ～",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP03-025_P"
+  },
+  "hBP03-040_P": {
+    "number": "hBP03-040",
+    "name": "フワワ・アビスガード",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-040_P.png",
+    "image_alt": "フワワ・アビスガード",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Advent",
+      "ケモミミ"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "チワワじゃないよ、フワワだよ",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP03-040_P"
+  },
+  "hBP03-046_P": {
+    "number": "hBP03-046",
+    "name": "火威青",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-046_P.png",
+    "image_alt": "火威青",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "ReGLOSS",
+      "絵"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "可愛い女の子かと思った？",
+        "dmg": "10",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "じゃじゃーん！ 青くんでした。",
+        "dmg": "40",
+        "icons": {
+          "main": [
+            "any",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP03-046_P"
+  },
+  "hBP03-057_P": {
+    "number": "hBP03-057",
+    "name": "ロボ子さん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-057_P.png",
+    "image_alt": "ロボ子さん",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "シューター"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "はろーぼー！",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP03-057_P"
+  },
+  "hBP03-073_P": {
+    "number": "hBP03-073",
+    "name": "アユンダ・リス",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-073_P.png",
+    "image_alt": "アユンダ・リス",
+    "card_type": "ホロメン",
+    "tags": [
+      "ID",
+      "ID1期生",
+      "ケモミミ",
+      "歌"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "110",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "こんリス",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "ぷるぷる～",
+        "dmg": "60",
+        "description": "このホロメンのエール1枚を、自分の〈戌神ころね〉に付け替えられる。",
+        "icons": {
+          "main": [
+            "any",
+            "any",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP03-073_P"
+  },
+  "hBP03-105_P_02": {
+    "number": "hBP03-105",
+    "name": "ルーナイト",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-105_P_02.png",
+    "image_alt": "ルーナイト",
+    "card_type": "サポート・ファン",
+    "rarity": "P",
+    "product": "PRカード",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "相手のターンで、このファンが付いているホロメンがダメージを受ける時、このファンをアーカイブできる：このファンが付いていたホロメンの受けるダメージ-30。\n\nこのファンは、自分の〈姫森ルーナ〉だけに付けられ、1人につき何枚でも付けられる。"
+      }
+    ],
+    "id": "hBP03-105_P_02"
+  },
+  "hBP03-112_P_02": {
+    "number": "hBP03-112",
+    "name": "わためいと",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-112_P_02.png",
+    "image_alt": "わためいと",
+    "card_type": "サポート・ファン",
+    "rarity": "P",
+    "product": "PRカード",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "相手のターンで、このファンが付いているホロメンがダウンした時、このホロメンの黄エール1～2枚を、自分の他の〈角巻わため〉1人に付け替えられる。\n\nこのファンは、自分の〈角巻わため〉だけに付けられ、1人につき何枚でも付けられる。"
+      }
+    ],
+    "id": "hBP03-112_P_02"
+  },
+  "hSD05-002_P": {
+    "number": "hSD05-002",
+    "name": "轟はじめ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD05-002_P.png",
+    "image_alt": "轟はじめ",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "ReGLOSS",
+      "ベイビー"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "ぶんぶんぶーん！",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD05-002_P"
+  },
+  "hSD07-002_P": {
+    "number": "hSD07-002",
+    "name": "不知火フレア",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD07-002_P.png",
+    "image_alt": "不知火フレア",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "ハーフエルフ"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "110",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "こんぬいー！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "不知火フレアだよ！",
+        "dmg": "60",
+        "icons": {
+          "main": [
+            "any",
+            "any",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD07-002_P"
+  },
+  "hSD07-014_P": {
+    "number": "hSD07-014",
+    "name": "不知火建設",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD07-014_P.png",
+    "image_alt": "不知火建設",
+    "card_type": "サポート・イベント・LIMITED",
+    "rarity": "P",
+    "product": "PRカード",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このカードは、自分の手札がこのカードを含まずに6枚以下でなければ使えない。\n\n自分のデッキの上から4枚を見る。その中から、〈不知火フレア〉と〈尾丸ポルカ〉と〈さくらみこ〉と〈星街すいせい〉と〈白銀ノエル〉を好きな枚数公開し、公開したホロメンを手札に加える。そして残ったカードを好きな順でデッキの下に戻す。\n\nLIMITED：ターンに１枚しか使えない。"
+      }
+    ],
+    "id": "hSD07-014_P"
   }
 }
