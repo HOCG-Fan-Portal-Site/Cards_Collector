@@ -25686,5 +25686,157 @@
       }
     ],
     "id": "hSD07-014_P"
+  },
+  "hBP01-050_U_02": {
+    "number": "hBP01-050",
+    "name": "風真いろは",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-050_U_02.png",
+    "image_alt": "風真いろは",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "秘密結社holoX"
+    ],
+    "rarity": "U",
+    "product": "ブースターパック「ブルーミングレディアンス」",
+    "hp": "140",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "用心棒",
+        "description": "[コラボポジション限定]相手のホロメンのアーツは、自分のコラボホロメンしか対象にできない。ただし、特殊ダメージは除く。"
+      },
+      {
+        "type": "アーツ",
+        "name": "元気を全力でお届けします！",
+        "dmg": "20",
+        "description": "自分のエールデッキの上から１枚を、自分の〈風真いろは〉以外の#秘密結社holoXを持つホロメンに送る。",
+        "icons": {
+          "main": [
+            "green",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-050_U_02"
+  },
+  "hBP01-081_RR_02": {
+    "number": "hBP01-081",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-081_RR_02.png",
+    "image_alt": "星街すいせい",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "RR",
+    "product": "ブースターパック「ブルーミングレディアンス」",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "空を駆ける光",
+        "description": "自分のエールデッキの上から１枚を、自分の青ホロメンに送る。"
+      },
+      {
+        "type": "アーツ",
+        "name": "輝く彗星",
+        "dmg": "60+",
+        "description": "このホロメンの青エール２枚をアーカイブできる：このホロメンに重なっているホロメン１枚につき、このアーツ+60（このアーツは相手のバックホロメンも対象にできる）。",
+        "icons": {
+          "main": [
+            "blue",
+            "blue",
+            "blue",
+            "any"
+          ],
+          "tokkou": [
+            "赤+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-081_RR_02"
+  },
+  "hBP01-123_C_02": {
+    "number": "hBP01-123",
+    "name": "野うさぎ同盟",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-123_C_02.png",
+    "image_alt": "野うさぎ同盟",
+    "card_type": "サポート・ファン",
+    "rarity": "C",
+    "product": "ブースターパック「ブルーミングレディアンス」",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このファンが付いているホロメンが能力でサイコロを振った時、このファンをアーカイブできる：そのサイコロの結果をすべて無くし、はじめからサイコロを振り直す。\n\r\nこのファンは、自分の〈兎田ぺこら〉だけに付けられ、1人につき何枚でも付けられる。"
+      }
+    ],
+    "id": "hBP01-123_C_02"
+  },
+  "hSD01-019_C_02": {
+    "number": "hSD01-019",
+    "name": "スゴイパソコン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD01/hSD01-019_C_02.png",
+    "image_alt": "スゴイパソコン",
+    "card_type": "サポート・アイテム・LIMITED",
+    "rarity": "C",
+    "product": "スタートデッキ「ときのそら＆AZKi」ブースターパック「ブルーミングレディアンス」スタートデッキ 青 猫又おかゆスタートデッキ 紫 癒月ちょこ",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このカードは、自分のステージのエール１枚をアーカイブしなければ使えない。\n\r\n自分のデッキから、Buzz以外の[１stホロメンか２ndホロメン]１枚を公開し、手札に加える。そしてデッキをシャッフルする。\n\r\nLIMITED：ターンに１枚しか使えない。"
+      }
+    ],
+    "id": "hSD01-019_C_02"
+  },
+  "hBP01-081_UR_02": {
+    "number": "hBP01-081",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-081_UR_02.png",
+    "image_alt": "星街すいせい",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "UR",
+    "product": "ブースターパック「ブルーミングレディアンス」",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "空を駆ける光",
+        "description": "自分のエールデッキの上から１枚を、自分の青ホロメンに送る。"
+      },
+      {
+        "type": "アーツ",
+        "name": "輝く彗星",
+        "dmg": "60+",
+        "description": "このホロメンの青エール２枚をアーカイブできる：このホロメンに重なっているホロメン１枚につき、このアーツ+60（このアーツは相手のバックホロメンも対象にできる）。",
+        "icons": {
+          "main": [
+            "blue",
+            "blue",
+            "blue",
+            "any"
+          ],
+          "tokkou": [
+            "赤+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-081_UR_02"
   }
 }
