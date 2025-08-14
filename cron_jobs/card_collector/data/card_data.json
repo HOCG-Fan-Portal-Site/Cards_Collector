@@ -34105,5 +34105,997 @@
       }
     ],
     "id": "hBP04-074_P_02"
+  },
+  "hBP01-013_R_02": {
+    "number": "hBP01-013",
+    "name": "天音かなた",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD08/hBP01-013_R_02.png",
+    "image_alt": "天音かなた",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "歌"
+    ],
+    "rarity": "R",
+    "product": "ブースターパック「ブルーミングレディアンス」スタートデッキ 白 天音かなた",
+    "hp": "100",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "天使のお仕事",
+        "description": "相手のセンターホロメンに特殊ダメージ30を与える（ダウンしても相手のライフは減らない）。"
+      },
+      {
+        "type": "アーツ",
+        "name": "エンジェルステージ",
+        "dmg": "50",
+        "icons": {
+          "main": [
+            "white",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-013_R_02"
+  },
+  "hSD08-001_OC": {
+    "number": "hSD08-001",
+    "name": "天音かなた",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD08/hSD08-001_OC.png",
+    "image_alt": "天音かなた",
+    "card_type": "推しホロメン",
+    "rarity": "OC",
+    "product": "スタートデッキ 白 天音かなた",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ホワイトマイク[ターンに1回]このターンの間、自分の白センターホロメンのアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-1]クイックガード[ゲームに1回]相手のターンで、自分の白ホロメンが相手からダメージを受ける時に使える：そのホロメン1人が受けるダメージ-20。"
+      }
+    ],
+    "id": "hSD08-001_OC"
+  },
+  "hSD08-002_U": {
+    "number": "hSD08-002",
+    "name": "天音かなた",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD08/hSD08-002_U.png",
+    "image_alt": "天音かなた",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "歌",
+      "サマー"
+    ],
+    "rarity": "U",
+    "product": "スタートデッキ 白 天音かなた",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "ホロサマー",
+        "description": "自分のデッキの上から5枚を見る。その中から、#サマーを持つDebutホロメン1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。"
+      },
+      {
+        "type": "アーツ",
+        "name": "浴衣似合うでしょ",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD08-002_U"
+  },
+  "hSD08-003_R": {
+    "number": "hSD08-003",
+    "name": "天音かなた",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD08/hSD08-003_R.png",
+    "image_alt": "天音かなた",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "歌"
+    ],
+    "rarity": "R",
+    "product": "スタートデッキ 白 天音かなた",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "相談のるよ",
+        "description": "自分のデッキから、#4期生を持つDebutホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "みんなのスパダリ",
+        "dmg": "100+",
+        "description": "自分のステージの#サマーを持つホロメン1人につき、このアーツ+10。",
+        "icons": {
+          "main": [
+            "white",
+            "any",
+            "any"
+          ],
+          "tokkou": [
+            "緑+50"
+          ]
+        }
+      }
+    ],
+    "id": "hSD08-003_R"
+  },
+  "hSD08-004_RR": {
+    "number": "hSD08-004",
+    "name": "天音かなた",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD08/hSD08-004_RR.png",
+    "image_alt": "天音かなた",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "歌"
+    ],
+    "rarity": "RR",
+    "product": "スタートデッキ 白 天音かなた",
+    "hp": "180",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "エンジェルウィンド",
+        "description": "[センターポジション限定]自分のコラボポジションの#4期生を持つDebutホロメンのアーツ+40。"
+      },
+      {
+        "type": "アーツ",
+        "name": "きみの背中に追いつけるように",
+        "dmg": "120",
+        "description": "[ターンに1回]このアーツで相手のセンターホロメンをダウンさせた時、相手の2ndホロメン1人に特殊ダメージ40を与える。",
+        "icons": {
+          "main": [
+            "white",
+            "white",
+            "any"
+          ],
+          "tokkou": [
+            "赤+50"
+          ]
+        }
+      }
+    ],
+    "id": "hSD08-004_RR"
+  },
+  "hSD08-005_C": {
+    "number": "hSD08-005",
+    "name": "姫森ルーナ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD08/hSD08-005_C.png",
+    "image_alt": "姫森ルーナ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "ベイビー",
+      "サマー"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ 白 天音かなた",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "なんでも入る巾着",
+        "description": "[コラボポジション限定]相手のターンで、自分のホロメンがダウンした時、自分のライフが相手以下なら、自分のアーカイブのカード名に「パソコン」を含むアイテム1枚を手札に戻せる。"
+      },
+      {
+        "type": "アーツ",
+        "name": "お祭りなのら",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD08-005_C"
+  },
+  "hSD08-006_C": {
+    "number": "hSD08-006",
+    "name": "常闇トワ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD08/hSD08-006_C.png",
+    "image_alt": "常闇トワ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "歌",
+      "シューター",
+      "サマー"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ 白 天音かなた",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "花火見ていく？",
+        "description": "相手のセンターホロメンに特殊ダメージ10を与える。自分が後攻で最初のターンなら、かわりに、相手のセンターホロメンに特殊ダメージ20を与える。"
+      },
+      {
+        "type": "アーツ",
+        "name": "トワに見惚れちゃった？",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD08-006_C"
+  },
+  "hSD08-007_C": {
+    "number": "hSD08-007",
+    "name": "角巻わため",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD08/hSD08-007_C.png",
+    "image_alt": "角巻わため",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "ケモミミ",
+      "歌",
+      "サマー"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ 白 天音かなた",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "みんなと夏祭り",
+        "description": "自分のアーカイブのエール1枚を自分の#4期生を持つ2ndホロメンに送れる。"
+      },
+      {
+        "type": "アーツ",
+        "name": "わたあめおいしいねぇ",
+        "dmg": "10",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD08-007_C"
+  },
+  "hSD09-001_OC": {
+    "number": "hSD09-001",
+    "name": "宝鐘マリン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD09/hSD09-001_OC.png",
+    "image_alt": "宝鐘マリン",
+    "card_type": "推しホロメン",
+    "rarity": "OC",
+    "product": "スタートデッキ 赤 宝鐘マリン【使用可能カード】エントリーカップ「キュリアスユニバース」",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]レッドマイク[ターンに1回]このターンの間、自分の赤センターホロメンのアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-1]さあ！もう一度！[ゲームに1回]自分のアーカイブの赤ホロメン1枚を手札に戻す。"
+      }
+    ],
+    "id": "hSD09-001_OC"
+  },
+  "hSD09-002_U": {
+    "number": "hSD09-002",
+    "name": "宝鐘マリン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD09/hSD09-002_U.png",
+    "image_alt": "宝鐘マリン",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "絵",
+      "海",
+      "サマー"
+    ],
+    "rarity": "U",
+    "product": "スタートデッキ 赤 宝鐘マリン【使用可能カード】エントリーカップ「キュリアスユニバース」",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "ホロサマー",
+        "description": "自分のデッキの上から5枚を見る。その中から、#サマーを持つDebutホロメン1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。"
+      },
+      {
+        "type": "アーツ",
+        "name": "船長も一緒にい・か・が？",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD09-002_U"
+  },
+  "hSD09-003_R": {
+    "number": "hSD09-003",
+    "name": "宝鐘マリン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD09/hSD09-003_R.png",
+    "image_alt": "宝鐘マリン",
+    "card_type": "Buzzホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "絵",
+      "海"
+    ],
+    "rarity": "R",
+    "product": "スタートデッキ 赤 宝鐘マリン【使用可能カード】エントリーカップ「キュリアスユニバース」",
+    "hp": "240",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "みんな優勝するぞ",
+        "description": "相手のセンターホロメンに、自分のステージの異なるカード名の#3期生を持つホロメン1人につき、特殊ダメージ10を与える。"
+      },
+      {
+        "type": "アーツ",
+        "name": "マリンに任せろってマジで",
+        "dmg": "50",
+        "icons": {
+          "main": [
+            "red",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD09-003_R"
+  },
+  "hSD09-004_RR": {
+    "number": "hSD09-004",
+    "name": "宝鐘マリン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD09/hSD09-004_RR.png",
+    "image_alt": "宝鐘マリン",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "絵",
+      "海"
+    ],
+    "rarity": "RR",
+    "product": "スタートデッキ 赤 宝鐘マリン【使用可能カード】エントリーカップ「キュリアスユニバース」",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "3期生の絆",
+        "dmg": "60",
+        "description": "自分のステージに〈宝鐘マリン〉以外の#3期生を持つホロメンがいるなら、自分のデッキを1枚引く。",
+        "icons": {
+          "main": [
+            "red"
+          ],
+          "tokkou": [
+            "黄+50"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "キミたちと水平線の向こう側へ",
+        "dmg": "120",
+        "description": "相手のセンターホロメンとコラボホロメンに、自分のステージの異なるカード名の#3期生を持つホロメン1人につき、特殊ダメージ10を与える。",
+        "icons": {
+          "main": [
+            "red",
+            "red",
+            "any"
+          ],
+          "tokkou": [
+            "黄+50"
+          ]
+        }
+      }
+    ],
+    "id": "hSD09-004_RR"
+  },
+  "hSD09-005_C": {
+    "number": "hSD09-005",
+    "name": "白銀ノエル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD09/hSD09-005_C.png",
+    "image_alt": "白銀ノエル",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "お酒",
+      "サマー"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ 赤 宝鐘マリン",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "3期生の海の家",
+        "description": "このターンの間、自分のステージの異なるカード名の#3期生を持つホロメン1人につき、自分のセンターポジションの2ndホロメンのアーツ+10。"
+      },
+      {
+        "type": "アーツ",
+        "name": "夏が来たぞー！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD09-005_C"
+  },
+  "hSD09-006_C": {
+    "number": "hSD09-006",
+    "name": "兎田ぺこら",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD09/hSD09-006_C.png",
+    "image_alt": "兎田ぺこら",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "ケモミミ",
+      "サマー"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ 赤 宝鐘マリン",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "あんたたち働くぺこー！",
+        "description": "自分が後攻で最初のターンなら、自分のエールデッキの上から1枚を、自分の#3期生を持つホロメンに送る。"
+      },
+      {
+        "type": "アーツ",
+        "name": "ご注文のかき氷ぺこ！",
+        "dmg": "10",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD09-006_C"
+  },
+  "hSD09-007_C": {
+    "number": "hSD09-007",
+    "name": "不知火フレア",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD09/hSD09-007_C.png",
+    "image_alt": "不知火フレア",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "ハーフエルフ",
+      "サマー"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ 赤 宝鐘マリン",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "クールダウンしよ",
+        "description": "[コラボポジション限定]相手のターンで、このホロメンがダウンした時、自分のライフが相手より少ないなら、自分の減るライフ-1。"
+      },
+      {
+        "type": "アーツ",
+        "name": "冷たいものお待ちどうさま♪",
+        "dmg": "80",
+        "icons": {
+          "main": [
+            "any",
+            "any",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD09-007_C"
+  },
+  "hBP02-085_U_02": {
+    "number": "hBP02-085",
+    "name": "HOLOLIVE FANTASY",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD09/hBP02-085_U_02.png",
+    "image_alt": "HOLOLIVE FANTASY",
+    "card_type": "サポート・イベント・LIMITED",
+    "rarity": "U",
+    "product": "スタートデッキ 赤 宝鐘マリン",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このカードは、自分の手札がこのカードを含まずに6枚以下でなければ使えない。\n\n自分のデッキの上から4枚を見る。その中から、#3期生を持つホロメンを好きな枚数公開し、公開したホロメンを手札に加える。そして残ったカードを好きな順でデッキの下に戻す。\n\nLIMITED：ターンに１枚しか使えない。"
+      }
+    ],
+    "id": "hBP02-085_U_02"
+  },
+  "hBP03-093_U_02": {
+    "number": "hBP03-093",
+    "name": "ホロライブ4期生",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD08/hBP03-093_U_02.png",
+    "image_alt": "ホロライブ4期生",
+    "card_type": "サポート・イベント・LIMITED",
+    "rarity": "U",
+    "product": "スタートデッキ 白 天音かなた",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このカードは、自分の手札がこのカードを含まずに6枚以下でなければ使えない。\n\n自分のデッキの上から4枚を見る。その中から、#4期生を持つホロメンを好きな枚数公開し、公開したホロメンを手札に加える。そして残ったカードを好きな順でデッキの下に戻す。\n\nLIMITED：ターンに１枚しか使えない。"
+      }
+    ],
+    "id": "hBP03-093_U_02"
+  },
+  "hBP02-085_02_P": {
+    "number": "hBP02-085",
+    "name": "HOLOLIVE FANTASY",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP02-085_02_P.png",
+    "image_alt": "HOLOLIVE FANTASY",
+    "card_type": "サポート・イベント・LIMITED",
+    "rarity": "P",
+    "product": "PRカード",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このカードは、自分の手札がこのカードを含まずに6枚以下でなければ使えない。\n\n自分のデッキの上から4枚を見る。その中から、#3期生を持つホロメンを好きな枚数公開し、公開したホロメンを手札に加える。そして残ったカードを好きな順でデッキの下に戻す。\n\nLIMITED：ターンに１枚しか使えない。"
+      }
+    ],
+    "id": "hBP02-085_02_P"
+  },
+  "hBP03-093_02_P": {
+    "number": "hBP03-093",
+    "name": "ホロライブ4期生",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-093_02_P.png",
+    "image_alt": "ホロライブ4期生",
+    "card_type": "サポート・イベント・LIMITED",
+    "rarity": "P",
+    "product": "PRカード",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このカードは、自分の手札がこのカードを含まずに6枚以下でなければ使えない。\n\n自分のデッキの上から4枚を見る。その中から、#4期生を持つホロメンを好きな枚数公開し、公開したホロメンを手札に加える。そして残ったカードを好きな順でデッキの下に戻す。\n\nLIMITED：ターンに１枚しか使えない。"
+      }
+    ],
+    "id": "hBP03-093_02_P"
+  },
+  "hSD01-016_02_C": {
+    "number": "hSD01-016",
+    "name": "春先のどか",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD08/hSD01-016_02_C.png",
+    "image_alt": "春先のどか",
+    "card_type": "サポート・スタッフ・LIMITED",
+    "rarity": "C",
+    "product": "スタートデッキ 白 天音かなたスタートデッキ 赤 宝鐘マリン",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のデッキを3枚引く。\n\nLIMITED：ターンに１枚しか使えない。"
+      }
+    ],
+    "id": "hSD01-016_02_C"
+  },
+  "hSD08-002_P": {
+    "number": "hSD08-002",
+    "name": "天音かなた",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD08-002_P.png",
+    "image_alt": "天音かなた",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "歌",
+      "サマー"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "ホロサマー",
+        "description": "自分のデッキの上から5枚を見る。その中から、#サマーを持つDebutホロメン1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。"
+      },
+      {
+        "type": "アーツ",
+        "name": "浴衣似合うでしょ",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD08-002_P"
+  },
+  "hSD08-005_P": {
+    "number": "hSD08-005",
+    "name": "姫森ルーナ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD08-005_P.png",
+    "image_alt": "姫森ルーナ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "ベイビー",
+      "サマー"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "なんでも入る巾着",
+        "description": "[コラボポジション限定]相手のターンで、自分のホロメンがダウンした時、自分のライフが相手以下なら、自分のアーカイブのカード名に「パソコン」を含むアイテム1枚を手札に戻せる。"
+      },
+      {
+        "type": "アーツ",
+        "name": "お祭りなのら",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD08-005_P"
+  },
+  "hSD08-006_P": {
+    "number": "hSD08-006",
+    "name": "常闇トワ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD08-006_P.png",
+    "image_alt": "常闇トワ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "歌",
+      "シューター",
+      "サマー"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "花火見ていく？",
+        "description": "相手のセンターホロメンに特殊ダメージ10を与える。自分が後攻で最初のターンなら、かわりに、相手のセンターホロメンに特殊ダメージ20を与える。"
+      },
+      {
+        "type": "アーツ",
+        "name": "トワに見惚れちゃった？",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD08-006_P"
+  },
+  "hSD08-007_P": {
+    "number": "hSD08-007",
+    "name": "角巻わため",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD08-007_P.png",
+    "image_alt": "角巻わため",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "ケモミミ",
+      "歌",
+      "サマー"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "みんなと夏祭り",
+        "description": "自分のアーカイブのエール1枚を自分の#4期生を持つ2ndホロメンに送れる。"
+      },
+      {
+        "type": "アーツ",
+        "name": "わたあめおいしいねぇ",
+        "dmg": "10",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD08-007_P"
+  },
+  "hSD09-002_P": {
+    "number": "hSD09-002",
+    "name": "宝鐘マリン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD09-002_P.png",
+    "image_alt": "宝鐘マリン",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "絵",
+      "海",
+      "サマー"
+    ],
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「キュリアスユニバース」",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "ホロサマー",
+        "description": "自分のデッキの上から5枚を見る。その中から、#サマーを持つDebutホロメン1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。"
+      },
+      {
+        "type": "アーツ",
+        "name": "船長も一緒にい・か・が？",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD09-002_P"
+  },
+  "hSD09-005_P": {
+    "number": "hSD09-005",
+    "name": "白銀ノエル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD09-005_P.png",
+    "image_alt": "白銀ノエル",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "お酒",
+      "サマー"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "3期生の海の家",
+        "description": "このターンの間、自分のステージの異なるカード名の#3期生を持つホロメン1人につき、自分のセンターポジションの2ndホロメンのアーツ+10。"
+      },
+      {
+        "type": "アーツ",
+        "name": "夏が来たぞー！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD09-005_P"
+  },
+  "hSD09-006_P": {
+    "number": "hSD09-006",
+    "name": "兎田ぺこら",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD09-006_P.png",
+    "image_alt": "兎田ぺこら",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "ケモミミ",
+      "サマー"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "あんたたち働くぺこー！",
+        "description": "自分が後攻で最初のターンなら、自分のエールデッキの上から1枚を、自分の#3期生を持つホロメンに送る。"
+      },
+      {
+        "type": "アーツ",
+        "name": "ご注文のかき氷ぺこ！",
+        "dmg": "10",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD09-006_P"
+  },
+  "hSD09-007_P": {
+    "number": "hSD09-007",
+    "name": "不知火フレア",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD09-007_P.png",
+    "image_alt": "不知火フレア",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "ハーフエルフ",
+      "サマー"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "クールダウンしよ",
+        "description": "[コラボポジション限定]相手のターンで、このホロメンがダウンした時、自分のライフが相手より少ないなら、自分の減るライフ-1。"
+      },
+      {
+        "type": "アーツ",
+        "name": "冷たいものお待ちどうさま♪",
+        "dmg": "80",
+        "icons": {
+          "main": [
+            "any",
+            "any",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD09-007_P"
+  },
+  "hY01-009_P": {
+    "number": "hY01-009",
+    "name": "白エール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY01-009_P.png",
+    "image_alt": "白エール",
+    "card_type": "エール",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "id": "hY01-009_P"
+  },
+  "hY02-007_P": {
+    "number": "hY02-007",
+    "name": "緑エール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY02-007_P.png",
+    "image_alt": "緑エール",
+    "card_type": "エール",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "id": "hY02-007_P"
+  },
+  "hY03-011_P": {
+    "number": "hY03-011",
+    "name": "赤エール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY03-011_P.png",
+    "image_alt": "赤エール",
+    "card_type": "エール",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "id": "hY03-011_P"
+  },
+  "hY03-012_P": {
+    "number": "hY03-012",
+    "name": "赤エール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY03-012_P.png",
+    "image_alt": "赤エール",
+    "card_type": "エール",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "id": "hY03-012_P"
+  },
+  "hY04-009_P": {
+    "number": "hY04-009",
+    "name": "青エール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY04-009_P.png",
+    "image_alt": "青エール",
+    "card_type": "エール",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "id": "hY04-009_P"
+  },
+  "hY05-007_P": {
+    "number": "hY05-007",
+    "name": "紫エール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY05-007_P.png",
+    "image_alt": "紫エール",
+    "card_type": "エール",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "id": "hY05-007_P"
+  },
+  "hY06-006_P": {
+    "number": "hY06-006",
+    "name": "黄エール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY06-006_P.png",
+    "image_alt": "黄エール",
+    "card_type": "エール",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "id": "hY06-006_P"
   }
 }
