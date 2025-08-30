@@ -35142,5 +35142,400 @@
       }
     ],
     "id": "ent01_teaching"
+  },
+  "hBD24-033_P": {
+    "number": "hBD24-033",
+    "name": "IRyS",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-033_P.png",
+    "image_alt": "IRyS",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「ブルーミングレディアンス」【使用可能カード】エントリーカップ「キュリアスユニバース」",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ホワイトエンハンス[ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～White～[ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-033_P"
+  },
+  "hBD24-034_P": {
+    "number": "hBD24-034",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-034_P.png",
+    "image_alt": "星街すいせい",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「ブルーミングレディアンス」【使用可能カード】エントリーカップ「エリートスパーク」",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ブルーエンハンス[ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Blue～[ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-034_P"
+  },
+  "hBD24-035_P": {
+    "number": "hBD24-035",
+    "name": "桃鈴ねね",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-035_P.png",
+    "image_alt": "桃鈴ねね",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「キュリアスユニバース」",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]イエローエンハンス[ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Yellow～[ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-035_P"
+  },
+  "hBD24-036_P": {
+    "number": "hBD24-036",
+    "name": "不知火フレア",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-036_P.png",
+    "image_alt": "不知火フレア",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「ブルーミングレディアンス」【使用可能カード】エントリーカップ「キュリアスユニバース」",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]イエローエンハンス[ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Yellow～[ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-036_P"
+  },
+  "hBD24-037_P": {
+    "number": "hBD24-037",
+    "name": "森カリオペ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-037_P.png",
+    "image_alt": "森カリオペ",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「ブルーミングレディアンス」【使用可能カード】エントリーカップ「クインテットスペクトラム」【使用可能カード】エントリーカップ「キュリアスユニバース」",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]パープルエンハンス[ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Purple～[ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-037_P"
+  },
+  "hBD24-038_P": {
+    "number": "hBD24-038",
+    "name": "古石ビジュー",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-038_P.png",
+    "image_alt": "古石ビジュー",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「キュリアスユニバース」",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]パープルエンハンス[ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Purple～[ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-038_P"
+  },
+  "hBD24-039_P": {
+    "number": "hBD24-039",
+    "name": "音乃瀬奏",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-039_P.png",
+    "image_alt": "音乃瀬奏",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「エリートスパーク」",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]イエローエンハンス[ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Yellow～[ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-039_P"
+  },
+  "hBD24-040_P": {
+    "number": "hBD24-040",
+    "name": "天音かなた",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-040_P.png",
+    "image_alt": "天音かなた",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「ブルーミングレディアンス」",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ホワイトエンハンス[ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～White～[ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-040_P"
+  },
+  "hBP01-081_02_SR": {
+    "number": "hBP01-081",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hCS01/hBP01-081_02_SR.png",
+    "image_alt": "星街すいせい",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "SR",
+    "product": "【hololive production OFFICIAL SHOP限定】hololive OFFICIAL CARD GAME 1st Anniversary Celebration Set【使用可能カード】エントリーカップ「ブルーミングレディアンス」【使用可能カード】エントリーカップ「エリートスパーク」",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "空を駆ける光",
+        "description": "自分のエールデッキの上から1枚を、自分の青ホロメンに送る。"
+      },
+      {
+        "type": "アーツ",
+        "name": "輝く彗星",
+        "dmg": "60+",
+        "description": "このホロメンの青エール2枚をアーカイブできる：このホロメンに重なっているホロメン1枚につき、このアーツ+60（このアーツは相手のバックホロメンも対象にできる）。",
+        "icons": {
+          "main": [
+            "blue",
+            "blue",
+            "blue",
+            "any"
+          ],
+          "tokkou": [
+            "赤+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-081_02_SR"
+  },
+  "hBP02-013_02_SR": {
+    "number": "hBP02-013",
+    "name": "白上フブキ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hCS01/hBP02-013_02_SR.png",
+    "image_alt": "白上フブキ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "1期生",
+      "ゲーマーズ",
+      "ケモミミ",
+      "絵"
+    ],
+    "rarity": "SR",
+    "product": "【hololive production OFFICIAL SHOP限定】hololive OFFICIAL CARD GAME 1st Anniversary Celebration Set【使用可能カード】エントリーカップ「クインテットスペクトラム」【使用可能カード】エントリーカップ「キュリアスユニバース」",
+    "hp": "180",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "みんなと一緒！",
+        "description": "このホロメンは、異なるカード名のマスコットを2枚まで付けられる。"
+      },
+      {
+        "type": "アーツ",
+        "name": "マスコットたちの饗宴",
+        "dmg": "80+",
+        "description": "自分のステージのマスコット1枚につき、このアーツ+20。",
+        "icons": {
+          "main": [
+            "white",
+            "white",
+            "any"
+          ],
+          "tokkou": [
+            "紫+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP02-013_02_SR"
+  },
+  "hBP03-030_02_SR": {
+    "number": "hBP03-030",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hCS01/hBP03-030_02_SR.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "SR",
+    "product": "【hololive production OFFICIAL SHOP限定】hololive OFFICIAL CARD GAME 1st Anniversary Celebration Set【使用可能カード】エントリーカップ「エリートスパーク」",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "エリートギャンブル",
+        "description": "[センターポジション限定][ターンに1回]自分のメインステップで、このホロメンに〈35P〉が付いている時、サイコロを1回振れる：3か5の時、このターンの間、このホロメンのアーツ+50。"
+      },
+      {
+        "type": "アーツ",
+        "name": "エリート巫女",
+        "dmg": "120+",
+        "description": "このホロメンに付いている〈35P〉1枚につき、このアーツ+20。",
+        "icons": {
+          "main": [
+            "red",
+            "any",
+            "any"
+          ],
+          "tokkou": [
+            "緑+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP03-030_02_SR"
+  },
+  "hBP04-013_02_SR": {
+    "number": "hBP04-013",
+    "name": "博衣こより",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hCS01/hBP04-013_02_SR.png",
+    "image_alt": "博衣こより",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "秘密結社holoX",
+      "ケモミミ"
+    ],
+    "rarity": "SR",
+    "product": "【hololive production OFFICIAL SHOP限定】hololive OFFICIAL CARD GAME 1st Anniversary Celebration Set【使用可能カード】エントリーカップ「キュリアスユニバース」",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "絶対諦めない！",
+        "description": "このホロメンが相手のホロメンをダウンさせた時、自分のデッキの上から1枚をホロパワーにする。その後、自分のホロパワーを見る。その中から1枚を公開し、手札に加える。そしてホロパワーをシャッフルする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "かくせいのこより",
+        "dmg": "160",
+        "description": "このホロメンに#こよラボを持つサポートカードが付いている時、自分のデッキから、#こよラボを持つサポートカード1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+        "icons": {
+          "main": [
+            "white",
+            "any",
+            "any"
+          ],
+          "tokkou": [
+            "緑+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP04-013_02_SR"
+  },
+  "hBP04-059_02_SR": {
+    "number": "hBP04-059",
+    "name": "ラプラス・ダークネス",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hCS01/hBP04-059_02_SR.png",
+    "image_alt": "ラプラス・ダークネス",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "秘密結社holoX",
+      "シューター"
+    ],
+    "rarity": "SR",
+    "product": "【hololive production OFFICIAL SHOP限定】hololive OFFICIAL CARD GAME 1st Anniversary Celebration Set【使用可能カード】エントリーカップ「キュリアスユニバース」",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "Yes My Dark！",
+        "description": "自分の手札1枚をアーカイブすることで、サイコロを3回振れる：奇数が出た回数1回につき、自分のデッキを1枚引く。自分のブルームエフェクト「Yes My Dark！」はターンに1回しか使えない。"
+      },
+      {
+        "type": "アーツ",
+        "name": "吾輩最強伝説",
+        "dmg": "120",
+        "description": "相手のセンターホロメンに、このターンに自分が能力でサイコロを振った回数1回につき、特殊ダメージ10を与える。",
+        "icons": {
+          "main": [
+            "purple",
+            "any",
+            "any"
+          ],
+          "tokkou": [
+            "青+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP04-059_02_SR"
+  },
+  "hY04-007_S": {
+    "number": "hY04-007",
+    "name": "青エール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD2025summer/hY04-007_S.png",
+    "image_alt": "青エール",
+    "card_type": "エール",
+    "rarity": "S",
+    "product": "【イベント物販限定商品】スタートデッキセット-2025 ホロナツパラダイスver.",
+    "color": "",
+    "id": "hY04-007_S"
   }
 }
