@@ -42815,5 +42815,51 @@
       }
     ],
     "id": "hBP05-031_P_02"
+  },
+  "ent05_teaching": {
+    "number": "null",
+    "name": "デッキ構築ルール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/ent05/ent05_teaching.png",
+    "image_alt": "デッキ構築ルール",
+    "card_type": "サポート",
+    "product": "【使用可能カード】エントリーカップ「エンチャントレガリア」",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "※本説明用カードはデッキ登録できません。\n\n【デッキ構築ルール】\n「推しホロメンカード」「ホロメンカード」「Spotホロメンカード」はブースターパック「エンチャントレガリア」に収録されているタレントのみ使用可能です。\n※ブースターパック「エンチャントレガリア」に収録されているタレントであれば、「エンチャントレガリア」以外で収録・配布されているカードも使用可能です。ただし、hBP02-069〈魔法少女みこ〉、hBP02-071〈魔法少女ルーナ〉は使用できません。\n※サポートカードなどその他のカードは通常のデッキ構築と同様となります。\n\n＜例：兎田ぺこらの場合＞\nブースターパック「エンチャントレガリア」には兎田ぺこらのカードが収録されているため、ブースターパック「ブルーミングレディアンス」に収録されている兎田ぺこらのカードも使用可能です。"
+      }
+    ],
+    "id": "ent05_teaching"
+  },
+  "hBP02-085_HR": {
+    "number": "hBP02-065",
+    "name": "ネリッサ・レイヴンクロフト",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP02-085_HR.png",
+    "image_alt": "ネリッサ・レイヴンクロフト",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Advent",
+      "歌",
+      "トリ"
+    ],
+    "rarity": "HR",
+    "product": "ブースターパック「エンチャントレガリア」【使用可能カード】エントリーカップ「エンチャントレガリア」",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "Hiya darlings!",
+        "dmg": "30+",
+        "description": "このホロメンに赤エールが付いている時、このアーツ+10。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP02-085_HR"
   }
 }
