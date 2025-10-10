@@ -42861,5 +42861,316 @@
       }
     ],
     "id": "hBP02-085_HR"
+  },
+  "hBP05-079_01_P": {
+    "number": "hBP05-079",
+    "name": "み俺恥",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-079_01_P.png",
+    "image_alt": "み俺恥",
+    "card_type": "サポート・イベント・LIMITED",
+    "rarity": "P",
+    "product": "PRカード",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のデッキを2枚引く。その後、直前の相手のターンに自分のホロメンがダウンしていて、自分のライフが相手のライフより少ないなら、アーカイブのエール1枚を自分のホロメン1人に送る。\n\nLIMITED：ターンに１枚しか使えない。"
+      }
+    ],
+    "id": "hBP05-079_01_P"
+  },
+  "hBP05-079_02_P": {
+    "number": "hBP05-079",
+    "name": "み俺恥",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-079_02_P.png",
+    "image_alt": "み俺恥",
+    "card_type": "サポート・イベント・LIMITED",
+    "rarity": "P",
+    "product": "PRカード",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のデッキを2枚引く。その後、直前の相手のターンに自分のホロメンがダウンしていて、自分のライフが相手のライフより少ないなら、アーカイブのエール1枚を自分のホロメン1人に送る。\n\nLIMITED：ターンに１枚しか使えない。"
+      }
+    ],
+    "id": "hBP05-079_02_P"
+  },
+  "hSD03-013_P": {
+    "number": "hSD03-013",
+    "name": "おかにゃん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD03-013_P.png",
+    "image_alt": "おかにゃん",
+    "card_type": "サポート・マスコット",
+    "rarity": "P",
+    "product": "PRカード",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このマスコットが付いているホロメンがセンターポジションかコラボポジションで受けるダメージ-10。\n\n◆〈猫又おかゆ〉に付いていたら能力追加\nこのマスコットが付いてるホロメンの能力でエールをアーカイブする時、アーカイブする青エール1枚のかわりに、このマスコットをアーカイブできる。\n\nマスコットは、自分のホロメン1人につき1枚だけ付けられる。"
+      }
+    ],
+    "id": "hSD03-013_P"
+  },
+  "hBP01-035_P": {
+    "number": "hBP01-035",
+    "name": "アキ・ローゼンタール",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-035_P.png",
+    "image_alt": "アキ・ローゼンタール",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "1期生",
+      "ハーフエルフ",
+      "お酒"
+    ],
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「エンチャントレガリア」",
+    "hp": "120",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "ブレーメンの音楽祭",
+        "description": "自分のアーカイブのツール１枚を自分のホロメンに付けられる。"
+      },
+      {
+        "type": "アーツ",
+        "name": "アキロゼ幻想曲",
+        "dmg": "40",
+        "description": "このホロメンにツールが付いている時、自分のエールデッキの上から１枚を、自分のホロメンに送る。",
+        "icons": {
+          "main": [
+            "green"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-035_P"
+  },
+  "hBP02-032_P": {
+    "number": "hBP02-032",
+    "name": "宝鐘マリン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP02-032_P.png",
+    "image_alt": "宝鐘マリン",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "絵",
+      "海"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "130",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "宝鐘の海賊団",
+        "description": "自分のデッキから、〈宝鐘マリン〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。自分のブルームエフェクト「宝鐘の海賊団」はターンに1回しか使えない。"
+      },
+      {
+        "type": "アーツ",
+        "name": "ヨーソロー",
+        "dmg": "50",
+        "icons": {
+          "main": [
+            "any",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP02-032_P"
+  },
+  "hBP04-039_P": {
+    "number": "hBP04-039",
+    "name": "カエラ・コヴァルスキア",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-039_P.png",
+    "image_alt": "カエラ・コヴァルスキア",
+    "card_type": "ホロメン",
+    "tags": [
+      "ID",
+      "ID3期生"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "おはエラ",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP04-039_P"
+  },
+  "hBP04-043_P": {
+    "number": "hBP04-043",
+    "name": "雪花ラミィ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-043_P.png",
+    "image_alt": "雪花ラミィ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "5期生",
+      "ハーフエルフ",
+      "お酒"
+    ],
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「エンチャントレガリア」",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "こんらみ～",
+        "dmg": "20",
+        "description": "相手のホロメン1人に特殊ダメージ10を与える。ただし、ダウンしても相手のライフは減らない。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP04-043_P"
+  },
+  "hBP04-063_P": {
+    "number": "hBP04-063",
+    "name": "古石ビジュー",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-063_P.png",
+    "image_alt": "古石ビジュー",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Advent",
+      "ベイビー"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "110",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "キラキラ コセキ！",
+        "description": "相手のターンで、このホロメンがダウンした時、自分のデッキを1枚引く。"
+      },
+      {
+        "type": "アーツ",
+        "name": "ボンビジュー！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP04-063_P"
+  },
+  "hBP04-073_P": {
+    "number": "hBP04-073",
+    "name": "アーニャ・メルフィッサ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-073_P.png",
+    "image_alt": "アーニャ・メルフィッサ",
+    "card_type": "ホロメン",
+    "tags": [
+      "ID",
+      "ID2期生",
+      "語学"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "おはよー！",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP04-073_P"
+  },
+  "hBP04-079_P": {
+    "number": "hBP04-079",
+    "name": "夏色まつり",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-079_P.png",
+    "image_alt": "夏色まつり",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "1期生",
+      "シューター"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "わっしょ～い！",
+        "description": "相手のターンで、このホロメンがダウンした時、このホロメンのエール1枚を、自分の他のホロメンに付け替えられる。"
+      },
+      {
+        "type": "アーツ",
+        "name": "ホロライブの清楚担当",
+        "dmg": "10",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP04-079_P"
+  },
+  "hBP04-083_P": {
+    "number": "hBP04-083",
+    "name": "桃鈴ねね",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-083_P.png",
+    "image_alt": "桃鈴ねね",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "5期生",
+      "歌",
+      "絵"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "こんねね～",
+        "dmg": "10",
+        "description": "自分のステージのホロメンが5人以下の時、自分のデッキから、#5期生を持つDebutホロメン1枚を公開し、ステージに出せる。そしてデッキをシャッフルする。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP04-083_P"
   }
 }
