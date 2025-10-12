@@ -43172,5 +43172,131 @@
       }
     ],
     "id": "hBP04-083_P"
+  },
+  "hBP05-061_RR_02": {
+    "number": "hBP05-061",
+    "name": "ネリッサ・レイヴンクロフト",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-061_RR_02.png",
+    "image_alt": "ネリッサ・レイヴンクロフト",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Advent",
+      "歌",
+      "トリ"
+    ],
+    "rarity": "RR",
+    "product": "ブースターパック「エンチャントレガリア」【使用可能カード】エントリーカップ「エンチャントレガリア」",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "DEO",
+        "description": "このホロメンが相手のホロメンをダウンさせた時、自分のデッキを2枚引く。"
+      },
+      {
+        "type": "アーツ",
+        "name": "Unleashed Charm",
+        "dmg": "120",
+        "description": "自分の手札1～3枚をアーカイブできる：このターンの間、アーカイブしたカード1枚につき、自分のステージの#歌を持つホロメン1人のアーツ+20。",
+        "icons": {
+          "main": [
+            "purple",
+            "any",
+            "any"
+          ],
+          "tokkou": [
+            "青+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP05-061_RR_02"
+  },
+  "hBP05-061_SR_02": {
+    "number": "hBP05-061",
+    "name": "ネリッサ・レイヴンクロフト",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-061_SR_02.png",
+    "image_alt": "ネリッサ・レイヴンクロフト",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Advent",
+      "歌",
+      "トリ"
+    ],
+    "rarity": "SR",
+    "product": "ブースターパック「エンチャントレガリア」【使用可能カード】エントリーカップ「エンチャントレガリア」",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "DEO",
+        "description": "このホロメンが相手のホロメンをダウンさせた時、自分のデッキを2枚引く。"
+      },
+      {
+        "type": "アーツ",
+        "name": "Unleashed Charm",
+        "dmg": "120",
+        "description": "自分の手札1～3枚をアーカイブできる：このターンの間、アーカイブしたカード1枚につき、自分のステージの#歌を持つホロメン1人のアーツ+20。",
+        "icons": {
+          "main": [
+            "purple",
+            "any",
+            "any"
+          ],
+          "tokkou": [
+            "青+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP05-061_SR_02"
+  },
+  "hBP05-061_UR_02": {
+    "number": "hBP05-061",
+    "name": "ネリッサ・レイヴンクロフト",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-061_UR_02.png",
+    "image_alt": "ネリッサ・レイヴンクロフト",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Advent",
+      "歌",
+      "トリ"
+    ],
+    "rarity": "UR",
+    "product": "ブースターパック「エンチャントレガリア」【使用可能カード】エントリーカップ「エンチャントレガリア」",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "DEO",
+        "description": "このホロメンが相手のホロメンをダウンさせた時、自分のデッキを2枚引く。"
+      },
+      {
+        "type": "アーツ",
+        "name": "Unleashed Charm",
+        "dmg": "120",
+        "description": "自分の手札1～3枚をアーカイブできる：このターンの間、アーカイブしたカード1枚につき、自分のステージの#歌を持つホロメン1人のアーツ+20。",
+        "icons": {
+          "main": [
+            "purple",
+            "any",
+            "any"
+          ],
+          "tokkou": [
+            "青+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP05-061_UR_02"
   }
 }
