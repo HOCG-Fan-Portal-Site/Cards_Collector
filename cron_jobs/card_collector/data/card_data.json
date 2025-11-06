@@ -43298,5 +43298,42 @@
       }
     ],
     "id": "hBP05-061_UR_02"
+  },
+  "hBP01-070_P_01": {
+    "number": "hBP01-070",
+    "name": "尾丸ポルカ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-070_P_01.png",
+    "image_alt": "尾丸ポルカ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "5期生",
+      "ケモミミ"
+    ],
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「エンチャントレガリア」",
+    "hp": "110",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "宴の始まりだ！",
+        "description": "自分のデッキから、ファン１枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "共依存",
+        "dmg": "70",
+        "description": "このアーツは、このホロメンに〈座員〉が付いていないと使えない。",
+        "icons": {
+          "main": [
+            "red",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-070_P_01"
   }
 }
