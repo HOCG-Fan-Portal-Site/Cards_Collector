@@ -43335,5 +43335,1132 @@
       }
     ],
     "id": "hBP01-070_P_01"
+  },
+  "hBD24-041_P": {
+    "number": "hBD24-041",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-041_P.png",
+    "image_alt": "エリザベス・ローズ・ブラッドフレイム",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]レッドエンハンス[ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Red～[ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-041_P"
+  },
+  "hBD24-042_P": {
+    "number": "hBD24-042",
+    "name": "シオリ・ノヴェラ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-042_P.png",
+    "image_alt": "シオリ・ノヴェラ",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ブルーエンハンス[ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Blue～[ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-042_P"
+  },
+  "hBD24-043_P": {
+    "number": "hBD24-043",
+    "name": "ラオーラ・パンテーラ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-043_P.png",
+    "image_alt": "ラオーラ・パンテーラ",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ホワイトエンハンス[ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～White～[ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-043_P"
+  },
+  "hBD24-044_P": {
+    "number": "hBD24-044",
+    "name": "一条莉々華",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-044_P.png",
+    "image_alt": "一条莉々華",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]レッドエンハンス[ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Red～[ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-044_P"
+  },
+  "hBD24-045_P": {
+    "number": "hBD24-045",
+    "name": "ときのそら",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-045_P.png",
+    "image_alt": "ときのそら",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ホワイトエンハンス[ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～White～[ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-045_P"
+  },
+  "hBD24-046_P": {
+    "number": "hBD24-046",
+    "name": "一伊那尓栖",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-046_P.png",
+    "image_alt": "一伊那尓栖",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]パープルエンハンス[ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Purple～[ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-046_P"
+  },
+  "hBD24-047_P": {
+    "number": "hBD24-047",
+    "name": "ロボ子さん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-047_P.png",
+    "image_alt": "ロボ子さん",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]パープルエンハンス[ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Purple～[ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-047_P"
+  },
+  "hBD24-048_P": {
+    "number": "hBD24-048",
+    "name": "ラプラス・ダークネス",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-048_P.png",
+    "image_alt": "ラプラス・ダークネス",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]パープルエンハンス[ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Purple～[ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-048_P"
+  },
+  "hBD24-049_P": {
+    "number": "hBD24-049",
+    "name": "響咲リオナ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-049_P.png",
+    "image_alt": "響咲リオナ",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ホワイトエンハンス[ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～White～[ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-049_P"
+  },
+  "hBD24-050_P": {
+    "number": "hBD24-050",
+    "name": "角巻わため",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-050_P.png",
+    "image_alt": "角巻わため",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]イエローエンハンス[ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Yellow～[ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-050_P"
+  },
+  "hBD24-051_P": {
+    "number": "hBD24-051",
+    "name": "轟はじめ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-051_P.png",
+    "image_alt": "轟はじめ",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ホワイトエンハンス[ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～White～[ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-051_P"
+  },
+  "hBD24-052_P": {
+    "number": "hBD24-052",
+    "name": "鷹嶺ルイ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-052_P.png",
+    "image_alt": "鷹嶺ルイ",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]レッドエンハンス[ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Red～[ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-052_P"
+  },
+  "hBD24-053_P": {
+    "number": "hBD24-053",
+    "name": "水宮枢",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-053_P.png",
+    "image_alt": "水宮枢",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ブルーエンハンス[ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Blue～[ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-053_P"
+  },
+  "hBD24-054_P": {
+    "number": "hBD24-054",
+    "name": "風真いろは",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-054_P.png",
+    "image_alt": "風真いろは",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]グリーンエンハンス[ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Green～[ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-054_P"
+  },
+  "hBD24-055_P": {
+    "number": "hBD24-055",
+    "name": "AZKi",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-055_P.png",
+    "image_alt": "AZKi",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]グリーンエンハンス[ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Green～[ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-055_P"
+  },
+  "hBD24-056_P": {
+    "number": "hBD24-056",
+    "name": "大空スバル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-056_P.png",
+    "image_alt": "大空スバル",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]イエローエンハンス[ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Yellow～[ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-056_P"
+  },
+  "hBD24-057_P": {
+    "number": "hBD24-057",
+    "name": "小鳥遊キアラ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-057_P.png",
+    "image_alt": "小鳥遊キアラ",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]レッドエンハンス[ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Red～[ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-057_P"
+  },
+  "hBD24-058_P": {
+    "number": "hBD24-058",
+    "name": "輪堂千速",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-058_P.png",
+    "image_alt": "輪堂千速",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]グリーンエンハンス[ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Green～[ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-058_P"
+  },
+  "hBD24-059_P": {
+    "number": "hBD24-059",
+    "name": "アイラニ・イオフィフティーン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-059_P.png",
+    "image_alt": "アイラニ・イオフィフティーン",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]グリーンエンハンス[ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Green～[ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-059_P"
+  },
+  "hBD24-060_P": {
+    "number": "hBD24-060",
+    "name": "虎金妃笑虎",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-060_P.png",
+    "image_alt": "虎金妃笑虎",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]イエローエンハンス[ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Yellow～[ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-060_P"
+  },
+  "hBD24-061_P": {
+    "number": "hBD24-061",
+    "name": "宝鐘マリン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-061_P.png",
+    "image_alt": "宝鐘マリン",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]レッドエンハンス[ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Red～[ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-061_P"
+  },
+  "hBD24-062_P": {
+    "number": "hBD24-062",
+    "name": "常闇トワ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-062_P.png",
+    "image_alt": "常闇トワ",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]パープルエンハンス[ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Purple～[ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-062_P"
+  },
+  "hBD24-063_P": {
+    "number": "hBD24-063",
+    "name": "赤井はあと",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-063_P.png",
+    "image_alt": "赤井はあと",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]レッドエンハンス[ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Red～[ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-063_P"
+  },
+  "hBD24-064_P": {
+    "number": "hBD24-064",
+    "name": "大神ミオ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-064_P.png",
+    "image_alt": "大神ミオ",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]グリーンエンハンス[ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Green～[ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-064_P"
+  },
+  "hBD24-065_P": {
+    "number": "hBD24-065",
+    "name": "綺々羅々ヴィヴィ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-065_P.png",
+    "image_alt": "綺々羅々ヴィヴィ",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]パープルエンハンス[ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Purple～[ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-065_P"
+  },
+  "hBD24-066_P": {
+    "number": "hBD24-066",
+    "name": "カエラ・コヴァルスキア",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-066_P.png",
+    "image_alt": "カエラ・コヴァルスキア",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]レッドエンハンス[ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]Birthday Gift ～Red～[ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-066_P"
+  },
+  "hBP01-007_P_01": {
+    "number": "hBP01-007",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-007_P_01.png",
+    "image_alt": "星街すいせい",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ほうき星[ターンに１回]この推しホロメンか自分の青ホロメンが相手のバックホロメンにダメージを与えた時に使える：その相手のバックホロメン１人に特殊ダメージ50を与える。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]シューティングスター[ゲームに１回]自分の青ホロメンが相手のセンターホロメンかコラボホロメンにダメージを与えた時に使える：相手のバックホロメン１人にそれと同じ数値の特殊ダメージを与える。"
+      }
+    ],
+    "id": "hBP01-007_P_01"
+  },
+  "hBP01-007_P_02": {
+    "number": "hBP01-007",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-007_P_02.png",
+    "image_alt": "星街すいせい",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ほうき星[ターンに１回]この推しホロメンか自分の青ホロメンが相手のバックホロメンにダメージを与えた時に使える：その相手のバックホロメン１人に特殊ダメージ50を与える。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]シューティングスター[ゲームに１回]自分の青ホロメンが相手のセンターホロメンかコラボホロメンにダメージを与えた時に使える：相手のバックホロメン１人にそれと同じ数値の特殊ダメージを与える。"
+      }
+    ],
+    "id": "hBP01-007_P_02"
+  },
+  "hBP01-007_P_03": {
+    "number": "hBP01-007",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-007_P_03.png",
+    "image_alt": "星街すいせい",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ほうき星[ターンに１回]この推しホロメンか自分の青ホロメンが相手のバックホロメンにダメージを与えた時に使える：その相手のバックホロメン１人に特殊ダメージ50を与える。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]シューティングスター[ゲームに１回]自分の青ホロメンが相手のセンターホロメンかコラボホロメンにダメージを与えた時に使える：相手のバックホロメン１人にそれと同じ数値の特殊ダメージを与える。"
+      }
+    ],
+    "id": "hBP01-007_P_03"
+  },
+  "hBP01-007_P_04": {
+    "number": "hBP01-007",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-007_P_04.png",
+    "image_alt": "星街すいせい",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ほうき星[ターンに１回]この推しホロメンか自分の青ホロメンが相手のバックホロメンにダメージを与えた時に使える：その相手のバックホロメン１人に特殊ダメージ50を与える。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]シューティングスター[ゲームに１回]自分の青ホロメンが相手のセンターホロメンかコラボホロメンにダメージを与えた時に使える：相手のバックホロメン１人にそれと同じ数値の特殊ダメージを与える。"
+      }
+    ],
+    "id": "hBP01-007_P_04"
+  },
+  "hBP01-013_P_03": {
+    "number": "hBP01-013",
+    "name": "天音かなた",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-013_P_03.png",
+    "image_alt": "天音かなた",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "歌"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "100",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "天使のお仕事",
+        "description": "相手のセンターホロメンに特殊ダメージ30を与える。ただし、ダウンしても相手のライフは減らない。"
+      },
+      {
+        "type": "アーツ",
+        "name": "エンジェルステージ",
+        "dmg": "50",
+        "icons": {
+          "main": [
+            "white",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-013_P_03"
+  },
+  "hBP01-042_P": {
+    "number": "hBP01-042",
+    "name": "兎田ぺこら",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-042_P.png",
+    "image_alt": "兎田ぺこら",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "ケモミミ"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "120",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "白い砂浜と兎少女",
+        "dmg": "40",
+        "icons": {
+          "main": [
+            "green"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "きｔらあああ",
+        "dmg": "50+",
+        "description": "サイコロを1回振れる：出た目の数1につき、このアーツ+10。",
+        "icons": {
+          "main": [
+            "green",
+            "green"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-042_P"
+  },
+  "hBP01-044_P_02": {
+    "number": "hBP01-044",
+    "name": "AZKi",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-044_P_02.png",
+    "image_alt": "AZKi",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "こんあずき～",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-044_P_02"
+  },
+  "hBP01-066_P": {
+    "number": "hBP01-066",
+    "name": "小鳥遊キアラ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-066_P.png",
+    "image_alt": "小鳥遊キアラ",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Myth",
+      "トリ"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "120",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "不死鳥の剣姫",
+        "dmg": "50",
+        "icons": {
+          "main": [
+            "red"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "跪きなさい。",
+        "dmg": "40",
+        "description": "このホロメンに重なっているホロメン1枚をアーカイブできる：相手のコラボホロメンに特殊ダメージ40を与える。",
+        "icons": {
+          "main": [
+            "red",
+            "red"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-066_P"
+  },
+  "hBP01-070_P_02": {
+    "number": "hBP01-070",
+    "name": "尾丸ポルカ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-070_P_02.png",
+    "image_alt": "尾丸ポルカ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "5期生",
+      "ケモミミ"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "110",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "宴の始まりだ！",
+        "description": "自分のデッキから、ファン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "共依存",
+        "dmg": "70",
+        "description": "このアーツは、このホロメンに〈座員〉が付いていないと使えない。",
+        "icons": {
+          "main": [
+            "red",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-070_P_02"
+  },
+  "hBP01-080_P": {
+    "number": "hBP01-080",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-080_P.png",
+    "image_alt": "星街すいせい",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "110",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "雪山の記憶",
+        "description": "サイコロを１回振れる：奇数の時、相手のHPが40以上減っているバックホロメン１人をダウンさせる（ダウンしても相手のライフは減らない）。"
+      },
+      {
+        "type": "アーツ",
+        "name": "戦うメイドさん",
+        "dmg": "70",
+        "icons": {
+          "main": [
+            "blue",
+            "blue"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-080_P"
+  },
+  "hBP04-002_P": {
+    "number": "hBP04-002",
+    "name": "儒烏風亭らでん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-002_P.png",
+    "image_alt": "儒烏風亭らでん",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 6,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]ReGLOSSの風流人[ターンに1回]自分のアーカイブのエール1枚を、自分の#ReGLOSSを持つホロメンに送る。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]余った時間でぐるぐる[ゲームに1回]自分のアーカイブの#きのこを持つイベント1～4枚を手札に戻す。そして手札に戻したカード2枚につき、自分のデッキを1枚引く。"
+      }
+    ],
+    "id": "hBP04-002_P"
+  },
+  "hBP04-013_P": {
+    "number": "hBP04-013",
+    "name": "博衣こより",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-013_P.png",
+    "image_alt": "博衣こより",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "秘密結社holoX",
+      "ケモミミ"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "絶対諦めない！",
+        "description": "このホロメンが相手のホロメンをダウンさせた時、自分のデッキの上から1枚をホロパワーにする。その後、自分のホロパワーを見る。その中から1枚を公開し、手札に加える。そしてホロパワーをシャッフルする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "かくせいのこより",
+        "dmg": "160",
+        "description": "このホロメンに#こよラボを持つサポートカードが付いている時、自分のデッキから、#こよラボを持つサポートカード1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+        "icons": {
+          "main": [
+            "white",
+            "any",
+            "any"
+          ],
+          "tokkou": [
+            "緑+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP04-013_P"
+  },
+  "hBP04-048_P": {
+    "number": "hBP04-048",
+    "name": "雪花ラミィ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-048_P.png",
+    "image_alt": "雪花ラミィ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "5期生",
+      "ハーフエルフ",
+      "お酒"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "190",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "ユニーリアの令嬢",
+        "description": "自分のエールデッキの上から1枚を、自分の〈雪民〉が付いている〈雪花ラミィ〉に送る。"
+      },
+      {
+        "type": "アーツ",
+        "name": "今日も祝福がありますように",
+        "dmg": "130",
+        "description": "このホロメンのエール1枚をアーカイブできる：相手のセンターホロメンかバックホロメン1人に特殊ダメージ30を与える。",
+        "icons": {
+          "main": [
+            "blue",
+            "any",
+            "any"
+          ],
+          "tokkou": [
+            "赤+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP04-048_P"
+  },
+  "hBP05-074_P": {
+    "number": "hBP05-074",
+    "name": "フレンドリーパソコン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-074_P.png",
+    "image_alt": "フレンドリーパソコン",
+    "card_type": "サポート・アイテム",
+    "rarity": "P",
+    "product": "PRカード",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のデッキから、エクストラ「このホロメンはデッキに何枚でも入れられる」を持つDebutホロメン1～2枚を公開し、ステージに出す。そしてデッキをシャッフルする。Debutホロメンを2枚出したなら、さらに、自分の手札1枚をデッキの下に戻す。"
+      }
+    ],
+    "id": "hBP05-074_P"
+  },
+  "hSD06-006_P": {
+    "number": "hSD06-006",
+    "name": "風真いろは",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD06-006_P.png",
+    "image_alt": "風真いろは",
+    "card_type": "Buzzホロメン",
+    "tags": [
+      "JP",
+      "秘密結社holoX"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "220",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "サムライ少女",
+        "description": "自分のデッキから、[〈ﾁｬｷ丸〉か〈ぽこべぇ〉]1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "刀の錆になるでござる！",
+        "dmg": "50",
+        "icons": {
+          "main": [
+            "green",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD06-006_P"
+  },
+  "hSD08-004_P": {
+    "number": "hSD08-004",
+    "name": "天音かなた",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD08-004_P.png",
+    "image_alt": "天音かなた",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "4期生",
+      "歌"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "180",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "エンジェルウィンド",
+        "description": "[センターポジション限定]自分のコラボポジションの#4期生を持つDebutホロメンのアーツ+40。"
+      },
+      {
+        "type": "アーツ",
+        "name": "きみの背中に追いつけるように",
+        "dmg": "120",
+        "description": "[ターンに1回]このアーツで相手のセンターホロメンをダウンさせた時、相手の2ndホロメン1人に特殊ダメージ40を与える。",
+        "icons": {
+          "main": [
+            "white",
+            "white",
+            "any"
+          ],
+          "tokkou": [
+            "赤+50"
+          ]
+        }
+      }
+    ],
+    "id": "hSD08-004_P"
+  },
+  "hSD09-004_P": {
+    "number": "hSD09-004",
+    "name": "宝鐘マリン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD09-004_P.png",
+    "image_alt": "宝鐘マリン",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "絵",
+      "海"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "3期生の絆",
+        "dmg": "60",
+        "description": "自分のステージに〈宝鐘マリン〉以外の#3期生を持つホロメンがいるなら、自分のデッキを1枚引く。",
+        "icons": {
+          "main": [
+            "red"
+          ],
+          "tokkou": [
+            "黄+50"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "キミたちと水平線の向こう側へ",
+        "dmg": "120",
+        "description": "相手のセンターホロメンとコラボホロメンに、自分のステージの異なるカード名の#3期生を持つホロメン1人につき、特殊ダメージ10を与える。",
+        "icons": {
+          "main": [
+            "red",
+            "red",
+            "any"
+          ],
+          "tokkou": [
+            "黄+50"
+          ]
+        }
+      }
+    ],
+    "id": "hSD09-004_P"
   }
 }
