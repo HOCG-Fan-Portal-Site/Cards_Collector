@@ -44462,5 +44462,720 @@
       }
     ],
     "id": "hSD09-004_P"
+  },
+  "hSD11-001_OSR": {
+    "number": "hSD11-001",
+    "name": "虎金妃笑虎",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-001_OSR.png",
+    "image_alt": "虎金妃笑虎",
+    "card_type": "推しホロメン",
+    "rarity": "OSR",
+    "product": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]虎視眈々[ターンに1回]自分のアーカイブのエール1～2枚を自分のエールが付いていない#FLOW GLOWを持つホロメン1人に送る。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]ニコたんの名を呼ぶがいいさ！[ゲームに1回]自分の#FLOW GLOWを持つホロメンの能力でエールをアーカイブした時に使える：相手のセンターホロメンかコラボホロメンどちらかに、アーカイブしたエール1枚につき、特殊ダメージ30を与える。"
+      }
+    ],
+    "id": "hSD11-001_OSR"
+  },
+  "hSD11-002_C": {
+    "number": "hSD11-002",
+    "name": "虎金妃笑虎",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-002_C.png",
+    "image_alt": "虎金妃笑虎",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎",
+    "hp": "130",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "ニコたんが～来たァー！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD11-002_C"
+  },
+  "hSD11-003_C_re": {
+    "number": "hSD11-003",
+    "name": "虎金妃笑虎",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-003_C_re.png",
+    "image_alt": "虎金妃笑虎",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎",
+    "hp": "180",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "にこと出会えたの何かのキセキ",
+        "dmg": "50",
+        "icons": {
+          "main": [
+            "any",
+            "any"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "期待せよ 牙で噛まれちゃうシゲキ",
+        "dmg": "80",
+        "icons": {
+          "main": [
+            "any",
+            "any",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD11-003_C_re"
+  },
+  "hSD11-004_U_re": {
+    "number": "hSD11-004",
+    "name": "虎金妃笑虎",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-004_U_re.png",
+    "image_alt": "虎金妃笑虎",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "U",
+    "product": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎",
+    "hp": "150",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "人を笑顔にするためならば",
+        "description": "自分のステージのエール2枚をアーカイブできる：自分のアーカイブの〈虎金妃笑虎〉1枚を手札に戻す。"
+      },
+      {
+        "type": "アーツ",
+        "name": "自分の人生すらも捧げられる",
+        "dmg": "30",
+        "description": "自分のエールデッキの上から1枚を自分の〈虎金妃笑虎〉に送れる。",
+        "icons": {
+          "main": [
+            "yellow",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD11-004_U_re"
+  },
+  "hSD11-005_U": {
+    "number": "hSD11-005",
+    "name": "虎金妃笑虎",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-005_U.png",
+    "image_alt": "虎金妃笑虎",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "U",
+    "product": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎",
+    "hp": "160",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "FLOW GLOWのお笑い担当",
+        "description": "自分のアーカイブのエール1枚を自分の#FLOW GLOWを持つバックホロメンに送れる。"
+      },
+      {
+        "type": "アーツ",
+        "name": "百折不撓",
+        "dmg": "30+",
+        "description": "自分のステージにエールが5枚以上あるなら、このアーツ+20。",
+        "icons": {
+          "main": [
+            "yellow"
+          ]
+        }
+      }
+    ],
+    "id": "hSD11-005_U"
+  },
+  "hSD11-006_RR": {
+    "number": "hSD11-006",
+    "name": "虎金妃笑虎",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-006_RR.png",
+    "image_alt": "虎金妃笑虎",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "RR",
+    "product": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "戯笑の使者",
+        "description": "自分のパフォーマンスステップが開始する時、自分の手札の#FLOW GLOWを持つホロメン1枚をアーカイブできる：自分のアーカイブの黄エール1枚を自分の〈虎金妃笑虎〉に送る。"
+      },
+      {
+        "type": "アーツ",
+        "name": "虎嘯風生",
+        "dmg": "40+",
+        "description": "このホロメンのエールを好きな枚数アーカイブできる：アーカイブしたエール1枚につき、このアーツ+40。",
+        "icons": {
+          "main": [
+            "yellow"
+          ],
+          "tokkou": [
+            "赤+50"
+          ]
+        }
+      }
+    ],
+    "id": "hSD11-006_RR"
+  },
+  "hSD11-007_C": {
+    "number": "hSD11-007",
+    "name": "水宮枢",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-007_C.png",
+    "image_alt": "水宮枢",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "しゅぴしゅわー",
+        "dmg": "20",
+        "description": "相手のセンターポジションのホロメン1人は、次の相手のターンが終了するまでバトンタッチに必要な◇+1。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD11-007_C"
+  },
+  "hSD11-008_C": {
+    "number": "hSD11-008",
+    "name": "水宮枢",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-008_C.png",
+    "image_alt": "水宮枢",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎",
+    "hp": "160",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "FLOW GLOWのえらい宣伝担当",
+        "description": "相手のセンターポジションのホロメン1人は、次の相手のターンが終了するまでバトンタッチに必要な◇+1。"
+      },
+      {
+        "type": "アーツ",
+        "name": "愛は時間ですよ",
+        "dmg": "30",
+        "description": "このアーツの対象が相手のバトンタッチに必要な◇が2つ以上のホロメンなら、自分のエールデッキの上から1枚を自分のバックホロメンに送る。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD11-008_C"
+  },
+  "hSD11-009_RR": {
+    "number": "hSD11-009",
+    "name": "水宮枢",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-009_RR.png",
+    "image_alt": "水宮枢",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "RR",
+    "product": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "感情の伝令者",
+        "description": "相手のセンターポジションのホロメン1人は、次の相手のターンが終了するまでバトンタッチに必要な◇+3。"
+      },
+      {
+        "type": "アーツ",
+        "name": "スゥイートオブセッション",
+        "dmg": "100",
+        "description": "このアーツの対象のホロメンに、そのホロメンのバトンタッチに必要な◇1つにつき、特殊ダメージ10を与える。",
+        "icons": {
+          "main": [
+            "blue",
+            "any"
+          ],
+          "tokkou": [
+            "紫+50"
+          ]
+        }
+      }
+    ],
+    "id": "hSD11-009_RR"
+  },
+  "hSD10-001_OSR": {
+    "number": "hSD10-001",
+    "name": "輪堂千速",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-001_OSR.png",
+    "image_alt": "輪堂千速",
+    "card_type": "推しホロメン",
+    "rarity": "OSR",
+    "product": "スタートデッキ FLOW GLOW 推し 輪堂千速",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー：-2]エンジン全開！レッツゴー！[ターンに1回]このターンに自分のホロメンがBloomしていたなら、このターンの間、自分のステージの#FLOW GLOWを持つホロメン1人のアーツ+30。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー：-2]向こう側の景色を見に行かない？[ゲームに1回]自分のエールデッキの上から1枚を自分のホロメンに送る。その後、自分の#FLOW GLOWを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのエール1枚につき、選んだホロメンのアーツ+20。"
+      }
+    ],
+    "id": "hSD10-001_OSR"
+  },
+  "hSD10-002_C": {
+    "number": "hSD10-002",
+    "name": "輪堂千速",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-002_C.png",
+    "image_alt": "輪堂千速",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ FLOW GLOW 推し 輪堂千速",
+    "hp": "110",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "はじまりんど～～～！",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD10-002_C"
+  },
+  "hSD10-003_C": {
+    "number": "hSD10-003",
+    "name": "輪堂千速",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-003_C.png",
+    "image_alt": "輪堂千速",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ FLOW GLOW 推し 輪堂千速",
+    "hp": "170",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "エンジン全開 演じない自然体",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "全身全霊 越えてく限界",
+        "dmg": "80",
+        "icons": {
+          "main": [
+            "green",
+            "any",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD10-003_C"
+  },
+  "hSD10-004_U": {
+    "number": "hSD10-004",
+    "name": "輪堂千速",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-004_U.png",
+    "image_alt": "輪堂千速",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "U",
+    "product": "スタートデッキ FLOW GLOW 推し 輪堂千速",
+    "hp": "150",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "300馬力だよ！",
+        "description": "自分の推しホロメンが〈輪堂千速〉で、相手のステージに1stホロメンがいるなら、このターンにBloomしたこのホロメンは、自分の手札の2ndホロメンを使ってもう1回Bloomできる。"
+      },
+      {
+        "type": "アーツ",
+        "name": "パワフルな運転手だよ！",
+        "dmg": "50",
+        "description": "自分のステージに#FLOW GLOWを持つホロメンが3人以上いるなら、自分のエールデッキの上から1枚を自分のバックホロメンに送れる。",
+        "icons": {
+          "main": [
+            "green",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD10-004_U"
+  },
+  "hSD10-005_U": {
+    "number": "hSD10-005",
+    "name": "輪堂千速",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-005_U.png",
+    "image_alt": "輪堂千速",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "U",
+    "product": "スタートデッキ FLOW GLOW 推し 輪堂千速",
+    "hp": "160",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "FLOW GLOWのDJ兼運転手担当",
+        "description": "自分のアーカイブの#FLOW GLOWを持つホロメン1～3枚を好きな順でデッキの下に戻せる。ホロメン3枚をデッキに戻したなら、自分のエールデッキの上から1枚を自分のホロメンに送れる。"
+      },
+      {
+        "type": "アーツ",
+        "name": "行きます！！！！",
+        "dmg": "20+",
+        "description": "このターンに自分のホロメンがBloomしていたなら、このターンの間、自分のステージの〈輪堂千速〉1人のアーツ+20。",
+        "icons": {
+          "main": [
+            "green"
+          ]
+        }
+      }
+    ],
+    "id": "hSD10-005_U"
+  },
+  "hSD10-006_RR": {
+    "number": "hSD10-006",
+    "name": "輪堂千速",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-006_RR.png",
+    "image_alt": "輪堂千速",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "RR",
+    "product": "スタートデッキ FLOW GLOW 推し 輪堂千速",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "鼓動の操縦者",
+        "dmg": "80+",
+        "description": "このターンに自分のホロメンがBloomしていたなら、このアーツ+50。",
+        "icons": {
+          "main": [
+            "green",
+            "any"
+          ],
+          "tokkou": [
+            "白+50"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "アクセラビートブレイズ",
+        "dmg": "140",
+        "description": "このアーツで相手のセンターホロメンをダウンさせた時、与えたダメージが残りHPをオーバーしていたなら、オーバーしたダメージ30につき、自分のエールデッキの上から1枚を自分のバックホロメン1人に送る。",
+        "icons": {
+          "main": [
+            "green",
+            "any",
+            "any"
+          ],
+          "tokkou": [
+            "白+50"
+          ]
+        }
+      }
+    ],
+    "id": "hSD10-006_RR"
+  },
+  "hSD10-007_C": {
+    "number": "hSD10-007",
+    "name": "綺々羅々ヴィヴィ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-007_C.png",
+    "image_alt": "綺々羅々ヴィヴィ",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ FLOW GLOW 推し 輪堂千速",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "ん〜〜〜〜〜ッヴィヴィ〜！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD10-007_C"
+  },
+  "hSD10-008_C": {
+    "number": "hSD10-008",
+    "name": "綺々羅々ヴィヴィ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-008_C.png",
+    "image_alt": "綺々羅々ヴィヴィ",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "C",
+    "product": "スタートデッキ FLOW GLOW 推し 輪堂千速",
+    "hp": "130",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "FLOW GLOWのメイク担当",
+        "description": "相手の手札すべてを見る。その中にサポートカードがあるなら、自分のデッキを1枚引く。"
+      },
+      {
+        "type": "アーツ",
+        "name": "そこに愛はあるんや！",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD10-008_C"
+  },
+  "hSD10-009_RR": {
+    "number": "hSD10-009",
+    "name": "綺々羅々ヴィヴィ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-009_RR.png",
+    "image_alt": "綺々羅々ヴィヴィ",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "RR",
+    "product": "スタートデッキ FLOW GLOW 推し 輪堂千速",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "美の求道者",
+        "description": "自分のデッキの上から、相手の手札と同じ枚数を見る。その中から、カード1枚を手札に加える。そして残ったカードをデッキに戻してシャッフルする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "ヴィジランスヴィーナス",
+        "dmg": "80+",
+        "description": "相手の手札1枚につき、このアーツ+10。",
+        "icons": {
+          "main": [
+            "purple",
+            "any"
+          ],
+          "tokkou": [
+            "青+50"
+          ]
+        }
+      }
+    ],
+    "id": "hSD10-009_RR"
+  },
+  "hSD10-010_RR": {
+    "number": "hSD10-010",
+    "name": "響咲リオナ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-010_RR.png",
+    "image_alt": "響咲リオナ",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "RR",
+    "product": "スタートデッキ FLOW GLOW 推し 輪堂千速スタートデッキ FLOW GLOW 推し 虎金妃笑虎",
+    "hp": "170",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "私の元においで～っ",
+        "description": "自分の手札1枚をアーカイブできる：自分のデッキから、[コラボエフェクトと#FLOW GLOWを持つホロメン]1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "RIONA IN DA HOUSE～!",
+        "dmg": "50+",
+        "description": "自分のステージに#FLOW GLOWを持つ2nd以上のホロメンがいるなら、このアーツ+30。",
+        "icons": {
+          "main": [
+            "any",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD10-010_RR"
+  },
+  "hSD10-011_U": {
+    "number": "hSD10-011",
+    "name": "WHAT'S UP!!!!! KEEEEEP GROWING!!!!!",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-011_U.png",
+    "image_alt": "WHAT'S UP!!!!! KEEEEEP GROWING!!!!!",
+    "card_type": "サポート・イベント・LIMITED",
+    "rarity": "U",
+    "product": "スタートデッキ FLOW GLOW 推し 輪堂千速スタートデッキ FLOW GLOW 推し 虎金妃笑虎",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このカードは、自分のステージのホロメン全員が#FLOW GLOWを持つホロメンでなければ使えない。\n\n自分のアーカイブのエール3枚を選び、自分のセンターホロメンとコラボホロメンに割り振って送る。ただし、ホロメン1人に送る枚数は2枚まで。"
+      }
+    ],
+    "id": "hSD10-011_U"
+  },
+  "hSD10-012_U": {
+    "number": "hSD10-012",
+    "name": "FLOW GLOW",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-012_U.png",
+    "image_alt": "FLOW GLOW",
+    "card_type": "サポート・イベント・LIMITED",
+    "rarity": "U",
+    "product": "スタートデッキ FLOW GLOW 推し 輪堂千速スタートデッキ FLOW GLOW 推し 虎金妃笑虎",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このカードは、自分の手札がこのカードを含まずに6枚以下でなければ使えない。\n\n自分のデッキの上から4枚を見る。その中から、#FLOW GLOWを持つホロメンを好きな枚数公開し、公開したホロメンを手札に加える。そして残ったカードを好きな順でデッキの下に戻す。"
+      }
+    ],
+    "id": "hSD10-012_U"
+  },
+  "hSD10-013_C": {
+    "number": "hSD10-013",
+    "name": "ふぐ太郎",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-013_C.png",
+    "image_alt": "ふぐ太郎",
+    "card_type": "サポート・ツール",
+    "rarity": "C",
+    "product": "スタートデッキ FLOW GLOW 推し 輪堂千速スタートデッキ FLOW GLOW 推し 虎金妃笑虎",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このツールが付いている#FLOW GLOWを持つホロメンのアーツ+10。\n\n◆#FLOW GLOWを持つホロメンに付いていたら能力追加\n自分のエンドステップが開始する時、このターンにこのツールが付いているホロメンがアーツを使っていたなら使える：自分のデッキから、#FLOW GLOWを持つ[DebutホロメンかSpotホロメン]1枚を公開し、ステージに出す。そしてデッキをシャッフルする。その後、このツールをデッキの下に戻す。\n\nツールは、自分のホロメン1人につき1枚だけ付けられる。"
+      }
+    ],
+    "id": "hSD10-013_C"
   }
 }
