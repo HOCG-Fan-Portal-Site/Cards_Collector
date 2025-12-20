@@ -52866,5 +52866,455 @@
     "product": "ブースターパック「アヤカシヴァーミリオン」",
     "color": "",
     "id": "hY06-007_SY"
+  },
+  "hSD02-014_P": {
+    "number": "hSD02-014",
+    "name": "ぽよ余",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD02-014_P.png",
+    "image_alt": "ぽよ余",
+    "card_type": "サポート・マスコット",
+    "tags": [
+      "白上'sキャラクター"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このマスコットが付いているホロメンのHP+20。\n\n◆〈百鬼あやめ〉に付いていたら能力追加\nこのマスコットが付いているホロメンがBloomした時、自分のデッキを1枚引く。\n\nマスコットは、自分のホロメン1人につき1枚だけ付けられる。"
+      }
+    ],
+    "id": "hSD02-014_P"
+  },
+  "hSD06-011_P": {
+    "number": "hSD06-011",
+    "name": "ﾁｬｷ丸",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD06-011_P.png",
+    "image_alt": "ﾁｬｷ丸",
+    "card_type": "サポート・ツール",
+    "rarity": "P",
+    "product": "PRカード",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このツールが付いているホロメンのアーツ+10。\n\n◆1st以上の〈風真いろは〉に付いていたら能力追加\n[ターンに1回]相手のターンで、このツールが付いているホロメンがダメージを受けた時、相手のセンターホロメンに特殊ダメージ20を与える。ただし、ダウンしても相手のライフは減らない。\n\nツールは、自分のホロメン1人につき1枚だけ付けられる。"
+      }
+    ],
+    "id": "hSD06-011_P"
+  },
+  "hSD10-002_P": {
+    "number": "hSD10-002",
+    "name": "輪堂千速",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD10-002_P.png",
+    "image_alt": "輪堂千速",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "110",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "はじまりんど～～～！",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD10-002_P"
+  },
+  "hSD10-007_P": {
+    "number": "hSD10-007",
+    "name": "綺々羅々ヴィヴィ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD10-007_P.png",
+    "image_alt": "綺々羅々ヴィヴィ",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "ん〜〜〜〜〜ッヴィヴィ〜！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD10-007_P"
+  },
+  "hSD11-002_P": {
+    "number": "hSD11-002",
+    "name": "虎金妃笑虎",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD11-002_P.png",
+    "image_alt": "虎金妃笑虎",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "130",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "ニコたんが～来たァー！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD11-002_P"
+  },
+  "hSD11-007_P": {
+    "number": "hSD11-007",
+    "name": "水宮枢",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD11-007_P.png",
+    "image_alt": "水宮枢",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "しゅぴしゅわー",
+        "dmg": "20",
+        "description": "相手のセンターポジションのホロメン1人は、次の相手のターンが終了するまでバトンタッチに必要な無色+1。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD11-007_P"
+  },
+  "hBP01-039_P": {
+    "number": "hBP01-039",
+    "name": "兎田ぺこら",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-039_P.png",
+    "image_alt": "兎田ぺこら",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "ケモミミ"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "60",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "ギャラクシーアイドル",
+        "description": "自分の推しホロメンが〈兎田ぺこら〉の時、サイコロを1回振れる：偶数の時、自分のエールデッキの上から1枚を、自分のホロメンに送る。"
+      },
+      {
+        "type": "アーツ",
+        "name": "無重力ジャンプ！",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP01-039_P"
+  },
+  "hBP05-009_P": {
+    "number": "hBP05-009",
+    "name": "白銀ノエル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-009_P.png",
+    "image_alt": "白銀ノエル",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "3期生",
+      "お酒"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "夏深し",
+        "description": "自分が後攻で最初のターンなら、自分のデッキから、1stホロメンの〈白銀ノエル〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "夏の思い出",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP05-009_P"
+  },
+  "hBP05-036_P": {
+    "number": "hBP05-036",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-036_P.png",
+    "image_alt": "星街すいせい",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "110",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "声出し最高！",
+        "dmg": "20+",
+        "description": "相手のバックホロメンのHPが減っているなら、このアーツ+20。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP05-036_P"
+  },
+  "hBP05-068_P": {
+    "number": "hBP05-068",
+    "name": "白上フブキ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-068_P.png",
+    "image_alt": "白上フブキ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "1期生",
+      "ゲーマーズ",
+      "ケモミミ",
+      "絵"
+    ],
+    "rarity": "P",
+    "product": "PRカード",
+    "hp": "110",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "ゆるゆる休養日",
+        "description": "このホロメンにマスコットが付いているなら、自分のデッキの上から1枚を見る。そのカードをデッキの上か下に戻す。"
+      },
+      {
+        "type": "アーツ",
+        "name": "おやつ食べてゲーム最高！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP05-068_P"
+  },
+  "hBP06-015_P": {
+    "number": "hBP06-015",
+    "name": "響咲リオナ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP06-015_P.png",
+    "image_alt": "響咲リオナ",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "FLOW",
+      "GLOW"
+    ],
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「アヤカシヴァーミリオン」",
+    "hp": "110",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "おかえりおな～",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP06-015_P"
+  },
+  "hBP06-022_P": {
+    "number": "hBP06-022",
+    "name": "風真いろは",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP06-022_P.png",
+    "image_alt": "風真いろは",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "秘密結社holoX"
+    ],
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「アヤカシヴァーミリオン」",
+    "hp": "140",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "手作りのお守り",
+        "dmg": "10",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hBP06-022_P"
+  },
+  "hSD05-011_P": {
+    "number": "hSD05-011",
+    "name": "一条莉々華",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD05-011_P.png",
+    "image_alt": "一条莉々華",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "ReGLOSS",
+      "料理"
+    ],
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「アヤカシヴァーミリオン」",
+    "hp": "70",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "任せておきなさい！",
+        "description": "自分のセンターホロメンが#ReGLOSSを持つ時、自分の手札が5枚以下なら、自分のデッキを1枚引く。"
+      },
+      {
+        "type": "アーツ",
+        "name": "社長の推し事",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD05-011_P"
+  },
+  "hSD06-005_P": {
+    "number": "hSD06-005",
+    "name": "風真いろは",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD06-005_P.png",
+    "image_alt": "風真いろは",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "秘密結社holoX"
+    ],
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「アヤカシヴァーミリオン」",
+    "hp": "120",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "かざまとおでかけ",
+        "description": "自分のエールデッキの上から1枚を、自分の#秘密結社holoXを持つホロメンに送る。"
+      },
+      {
+        "type": "アーツ",
+        "name": "かざまといっしょ！",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "green"
+          ]
+        }
+      }
+    ],
+    "id": "hSD06-005_P"
+  },
+  "hSD06-008_P": {
+    "number": "hSD06-008",
+    "name": "博衣こより",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD06-008_P.png",
+    "image_alt": "博衣こより",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "秘密結社holoX",
+      "ケモミミ"
+    ],
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「アヤカシヴァーミリオン」",
+    "hp": "70",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "ずのー！",
+        "description": "自分のセンターホロメンが#秘密結社holoXを持つ時、自分の手札が5枚以下なら、自分のデッキを1枚引く。"
+      },
+      {
+        "type": "アーツ",
+        "name": "どやぁ",
+        "dmg": "10",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD06-008_P"
   }
 }
