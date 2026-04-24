@@ -63931,5 +63931,2102 @@
     "product": "ブースターパック「ディーヴァフィーバー」",
     "color": "",
     "id": "hY06-009_SY"
+  },
+  "hBP01-104_07_C": {
+    "number": "hBP01-104",
+    "name": "ふつうのパソコン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hBP01-104_07_C.png",
+    "image_alt": "ふつうのパソコン",
+    "card_type": "サポート・アイテム",
+    "rarity": "C",
+    "product": "ライブスタートデッキ 大空スバル",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のデッキから、Debutホロメン１枚を公開し、ステージに出す。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBP01-104_07_C"
+  },
+  "hSD19-001_OC": {
+    "number": "hSD19-001",
+    "name": "大空スバル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hSD19-001_OC.png",
+    "image_alt": "大空スバル",
+    "card_type": "推しホロメン",
+    "rarity": "OC",
+    "product": "ライブスタートデッキ 大空スバル",
+    "color": "",
+    "life": 4,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー:-3]ごめんｹﾄﾞ[ターンに1回]自分のアーカイブのホロメン1枚を手札に戻す。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー:-2]おさんぽスバル[ゲームに1回]自分のアーカイブのエールを自分の〈大空スバル〉1～2人に1枚ずつ送る。"
+      }
+    ],
+    "id": "hSD19-001_OC"
+  },
+  "hSD19-002_C": {
+    "number": "hSD19-002",
+    "name": "大空スバル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hSD19-002_C.png",
+    "image_alt": "大空スバル",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "2期生",
+      "トリ"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 大空スバル",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "あじまるあじまる～",
+        "dmg": "10",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD19-002_C"
+  },
+  "hSD19-003_C": {
+    "number": "hSD19-003",
+    "name": "大空スバル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hSD19-003_C.png",
+    "image_alt": "大空スバル",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "2期生",
+      "トリ"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 大空スバル",
+    "hp": "80",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "今日もあなたのそばに -スバル-",
+        "dmg": "20+",
+        "description": "自分のライフが2以下なら、このアーツ+10。",
+        "icons": {
+          "main": [
+            "yellow"
+          ]
+        }
+      }
+    ],
+    "id": "hSD19-003_C"
+  },
+  "hSD19-004_C": {
+    "number": "hSD19-004",
+    "name": "大空スバル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hSD19-004_C.png",
+    "image_alt": "大空スバル",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "2期生",
+      "トリ"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 大空スバル",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "大空スマイル",
+        "description": "自分が後攻で最初のターンなら、自分のデッキから、Debutホロメン1枚を公開し、ステージに出す。そしてデッキをシャッフルする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "しゅばぁ",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD19-004_C"
+  },
+  "hSD19-005_U": {
+    "number": "hSD19-005",
+    "name": "大空スバル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hSD19-005_U.png",
+    "image_alt": "大空スバル",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "2期生",
+      "トリ"
+    ],
+    "rarity": "U",
+    "product": "ライブスタートデッキ 大空スバル",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "ダンスレッスンなんですｹｰﾄﾞ",
+        "description": "このホロメンが相手のセンターホロメンから受けるダメージ-10。"
+      },
+      {
+        "type": "アーツ",
+        "name": "いっちにー、ホワッ、ホワッ！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD19-005_U"
+  },
+  "hSD19-006_C": {
+    "number": "hSD19-006",
+    "name": "大空スバル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hSD19-006_C.png",
+    "image_alt": "大空スバル",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "2期生",
+      "トリ"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 大空スバル",
+    "hp": "160",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "いっぱい頑張る！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "いっぱい楽しむ！",
+        "dmg": "40",
+        "icons": {
+          "main": [
+            "yellow",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD19-006_C"
+  },
+  "hSD19-007_U": {
+    "number": "hSD19-007",
+    "name": "大空スバル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hSD19-007_U.png",
+    "image_alt": "大空スバル",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "2期生",
+      "トリ"
+    ],
+    "rarity": "U",
+    "product": "ライブスタートデッキ 大空スバル",
+    "hp": "140",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "青春エール",
+        "description": "自分のアーカイブのエール1枚をこのホロメンに送る。"
+      },
+      {
+        "type": "アーツ",
+        "name": "忘れてなんかやるもんか",
+        "dmg": "30+",
+        "description": "このホロメンにエールが2枚以上付いているなら、このアーツ+20。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD19-007_U"
+  },
+  "hSD19-008_R": {
+    "number": "hSD19-008",
+    "name": "大空スバル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hSD19-008_R.png",
+    "image_alt": "大空スバル",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "2期生",
+      "トリ"
+    ],
+    "rarity": "R",
+    "product": "ライブスタートデッキ 大空スバル",
+    "hp": "150",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "萌え萌えギュン",
+        "dmg": "20+",
+        "description": "[コラボポジション限定]相手のステージに2ndホロメンがいるなら、このアーツ+20。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD19-008_R"
+  },
+  "hSD19-009_RR": {
+    "number": "hSD19-009",
+    "name": "大空スバル",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hSD19-009_RR.png",
+    "image_alt": "大空スバル",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "2期生",
+      "トリ"
+    ],
+    "rarity": "RR",
+    "product": "ライブスタートデッキ 大空スバル",
+    "hp": "180",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "ダンシング・プレアデス",
+        "dmg": "80+",
+        "description": "自分のライフが2以下なら、このアーツ+10。",
+        "icons": {
+          "main": [
+            "yellow",
+            "yellow"
+          ],
+          "tokkou": [
+            "白+30"
+          ]
+        }
+      }
+    ],
+    "id": "hSD19-009_RR"
+  },
+  "hSD19-010_C": {
+    "number": "hSD19-010",
+    "name": "ごきげんカレー",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hSD19-010_C.png",
+    "image_alt": "ごきげんカレー",
+    "card_type": "サポート・イベント",
+    "tags": [
+      "食べ物"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 大空スバル",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のホロメンのHP30回復。"
+      }
+    ],
+    "id": "hSD19-010_C"
+  },
+  "hBP01-104_06_C": {
+    "number": "hBP01-104",
+    "name": "ふつうのパソコン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hBP01-104_06_C.png",
+    "image_alt": "ふつうのパソコン",
+    "card_type": "サポート・アイテム",
+    "rarity": "C",
+    "product": "ライブスタートデッキ 森カリオペ",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のデッキから、Debutホロメン１枚を公開し、ステージに出す。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBP01-104_06_C"
+  },
+  "hSD18-001_OC": {
+    "number": "hSD18-001",
+    "name": "森カリオペ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hSD18-001_OC.png",
+    "image_alt": "森カリオペ",
+    "card_type": "推しホロメン",
+    "rarity": "OC",
+    "product": "ライブスタートデッキ 森カリオペ",
+    "color": "",
+    "life": 4,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー:-2]ライミング[ターンに1回]自分のデッキの上から2枚をアーカイブする。その後、自分のデッキを1枚引く。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー:-2]世界を繋げるラップ[ゲームに1回]自分のアーカイブにホロメンが6枚以上あるなら、このターンの間、自分のステージの〈森カリオペ〉全員のアーツ+30。"
+      }
+    ],
+    "id": "hSD18-001_OC"
+  },
+  "hSD18-002_C": {
+    "number": "hSD18-002",
+    "name": "森カリオペ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hSD18-002_C.png",
+    "image_alt": "森カリオペ",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Myth",
+      "歌"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 森カリオペ",
+    "hp": "80",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "Nice to reap you",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD18-002_C"
+  },
+  "hSD18-003_C": {
+    "number": "hSD18-003",
+    "name": "森カリオペ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hSD18-003_C.png",
+    "image_alt": "森カリオペ",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Myth",
+      "歌"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 森カリオペ",
+    "hp": "70",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "今日もあなたのそばに -カリオペ-",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "purple"
+          ]
+        }
+      }
+    ],
+    "id": "hSD18-003_C"
+  },
+  "hSD18-004_C": {
+    "number": "hSD18-004",
+    "name": "森カリオペ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hSD18-004_C.png",
+    "image_alt": "森カリオペ",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Myth",
+      "歌"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 森カリオペ",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "みーなさんっ",
+        "description": "自分が後攻で最初のターンなら、自分のデッキの上から1枚をアーカイブする。その後、自分のデッキを1枚引く。"
+      },
+      {
+        "type": "アーツ",
+        "name": "あたためて貰えますか…？",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD18-004_C"
+  },
+  "hSD18-005_U": {
+    "number": "hSD18-005",
+    "name": "森カリオペ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hSD18-005_U.png",
+    "image_alt": "森カリオペ",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Myth",
+      "歌"
+    ],
+    "rarity": "U",
+    "product": "ライブスタートデッキ 森カリオペ",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "死神式ストレッチ",
+        "description": "自分のツールが付いているホロメンがいるなら、相手のセンターホロメンに特殊ダメージ10を与える。"
+      },
+      {
+        "type": "アーツ",
+        "name": "一緒に、どう？",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD18-005_U"
+  },
+  "hSD18-006_C": {
+    "number": "hSD18-006",
+    "name": "森カリオペ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hSD18-006_C.png",
+    "image_alt": "森カリオペ",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Myth",
+      "歌"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 森カリオペ",
+    "hp": "140",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "これから、頑張る。",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "負けない。諦めない。",
+        "dmg": "50",
+        "icons": {
+          "main": [
+            "purple",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD18-006_C"
+  },
+  "hSD18-007_U": {
+    "number": "hSD18-007",
+    "name": "森カリオペ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hSD18-007_U.png",
+    "image_alt": "森カリオペ",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Myth",
+      "歌"
+    ],
+    "rarity": "U",
+    "product": "ライブスタートデッキ 森カリオペ",
+    "hp": "130",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "ちょっとした特別なプレゼント",
+        "description": "相手のターンで、このホロメンがダウンした時、自分のデッキの上から1枚をアーカイブする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "手伝ってもらって助かるよ",
+        "dmg": "30+",
+        "description": "このホロメンにツールが付いているなら、このアーツ+10。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD18-007_U"
+  },
+  "hSD18-008_R": {
+    "number": "hSD18-008",
+    "name": "森カリオペ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hSD18-008_R.png",
+    "image_alt": "森カリオペ",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Myth",
+      "歌"
+    ],
+    "rarity": "R",
+    "product": "ライブスタートデッキ 森カリオペ",
+    "hp": "140",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "ロックンロールリッパー",
+        "description": "自分のデッキの上から1枚をアーカイブする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "OK、もう一曲行こう！",
+        "dmg": "40",
+        "description": "[センターポジション限定]自分のアーカイブのツール1枚を手札に戻す。",
+        "icons": {
+          "main": [
+            "purple",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD18-008_R"
+  },
+  "hSD18-009_RR": {
+    "number": "hSD18-009",
+    "name": "森カリオペ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hSD18-009_RR.png",
+    "image_alt": "森カリオペ",
+    "card_type": "ホロメン",
+    "tags": [
+      "EN",
+      "Myth",
+      "歌"
+    ],
+    "rarity": "RR",
+    "product": "ライブスタートデッキ 森カリオペ",
+    "hp": "160",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "ペイルライダー",
+        "description": "自分のアーカイブにホロメンが6枚以上あるなら、相手のセンターホロメンに特殊ダメージ20を与える。"
+      },
+      {
+        "type": "アーツ",
+        "name": "刻むぞ冥界のビート",
+        "dmg": "90",
+        "icons": {
+          "main": [
+            "purple",
+            "purple"
+          ],
+          "tokkou": [
+            "緑+30"
+          ]
+        }
+      }
+    ],
+    "id": "hSD18-009_RR"
+  },
+  "hBP01-104_05_C": {
+    "number": "hBP01-104",
+    "name": "ふつうのパソコン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hBP01-104_05_C.png",
+    "image_alt": "ふつうのパソコン",
+    "card_type": "サポート・アイテム",
+    "rarity": "C",
+    "product": "ライブスタートデッキ 星街すいせい",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のデッキから、Debutホロメン１枚を公開し、ステージに出す。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBP01-104_05_C"
+  },
+  "hSD17-001_OC": {
+    "number": "hSD17-001",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-001_OC.png",
+    "image_alt": "星街すいせい",
+    "card_type": "推しホロメン",
+    "rarity": "OC",
+    "product": "ライブスタートデッキ 星街すいせい",
+    "color": "",
+    "life": 4,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー:-3]張り切ってがんばろーー!!![ターンに1回]自分のエールデッキの上から1枚を自分のホロメンに送る。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー:-2]流れ星[ゲームに1回]自分のセンターホロメンが〈星街すいせい〉なら、相手のバックホロメン1人に特殊ダメージ50を与える。"
+      }
+    ],
+    "id": "hSD17-001_OC"
+  },
+  "hSD17-002_C": {
+    "number": "hSD17-002",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-002_C.png",
+    "image_alt": "星街すいせい",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 星街すいせい",
+    "hp": "80",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "バーチャルアイドル・星街すいせい",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD17-002_C"
+  },
+  "hSD17-003_C": {
+    "number": "hSD17-003",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-003_C.png",
+    "image_alt": "星街すいせい",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 星街すいせい",
+    "hp": "70",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "今日もあなたのそばに -すいせい-",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "blue"
+          ]
+        }
+      }
+    ],
+    "id": "hSD17-003_C"
+  },
+  "hSD17-004_C": {
+    "number": "hSD17-004",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-004_C.png",
+    "image_alt": "星街すいせい",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 星街すいせい",
+    "hp": "80",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "ファーストスター",
+        "description": "自分が後攻で最初のターンなら、相手のバックホロメン1人に特殊ダメージ20を与える。"
+      },
+      {
+        "type": "アーツ",
+        "name": "私だけの輝き",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD17-004_C"
+  },
+  "hSD17-005_U": {
+    "number": "hSD17-005",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-005_U.png",
+    "image_alt": "星街すいせい",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "U",
+    "product": "ライブスタートデッキ 星街すいせい",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "よーし、レッスン開始だー！",
+        "dmg": "20",
+        "description": "相手のバックホロメン1人に特殊ダメージ10を与える。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD17-005_U"
+  },
+  "hSD17-006_C": {
+    "number": "hSD17-006",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-006_C.png",
+    "image_alt": "星街すいせい",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 星街すいせい",
+    "hp": "140",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "そろそろ始まるよ！",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "みんな準備はできてる？",
+        "dmg": "50",
+        "icons": {
+          "main": [
+            "blue",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD17-006_C"
+  },
+  "hSD17-007_U": {
+    "number": "hSD17-007",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-007_U.png",
+    "image_alt": "星街すいせい",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "U",
+    "product": "ライブスタートデッキ 星街すいせい",
+    "hp": "130",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "Message for You -すいせい-",
+        "description": "[バックポジション限定]相手のバックホロメン1人に特殊ダメージ10を与える。"
+      },
+      {
+        "type": "アーツ",
+        "name": "バレンタイン……か……",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD17-007_U"
+  },
+  "hSD17-008_R": {
+    "number": "hSD17-008",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-008_R.png",
+    "image_alt": "星街すいせい",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "R",
+    "product": "ライブスタートデッキ 星街すいせい",
+    "hp": "140",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "明日への歌",
+        "description": "相手のターンで、このホロメンがダウンした時、自分のデッキを1枚引く。"
+      },
+      {
+        "type": "アーツ",
+        "name": "あなたの一番星",
+        "dmg": "40",
+        "description": "相手のバックホロメン1人に特殊ダメージ10を与える。",
+        "icons": {
+          "main": [
+            "blue",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD17-008_R"
+  },
+  "hSD17-009_RR": {
+    "number": "hSD17-009",
+    "name": "星街すいせい",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-009_RR.png",
+    "image_alt": "星街すいせい",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "歌"
+    ],
+    "rarity": "RR",
+    "product": "ライブスタートデッキ 星街すいせい",
+    "hp": "170",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "踊ったもん勝ち！",
+        "description": "このターンの間、このホロメンのアーツ+20。"
+      },
+      {
+        "type": "アーツ",
+        "name": "キラキラの向こう側へ",
+        "dmg": "110",
+        "icons": {
+          "main": [
+            "blue",
+            "blue",
+            "any"
+          ],
+          "tokkou": [
+            "紫+30"
+          ]
+        }
+      }
+    ],
+    "id": "hSD17-009_RR"
+  },
+  "hSD17-010_C": {
+    "number": "hSD17-010",
+    "name": "ステラ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-010_C.png",
+    "image_alt": "ステラ",
+    "card_type": "サポート・イベント",
+    "rarity": "C",
+    "product": "ライブスタートデッキ 星街すいせい",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "相手のDebut以外のバックホロメン1人に特殊ダメージ20を与える。自分の〈ステラ〉はターンに1回しか使えない。"
+      }
+    ],
+    "id": "hSD17-010_C"
+  },
+  "hBP01-104_04_C": {
+    "number": "hBP01-104",
+    "name": "ふつうのパソコン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hBP01-104_04_C.png",
+    "image_alt": "ふつうのパソコン",
+    "card_type": "サポート・アイテム",
+    "rarity": "C",
+    "product": "ライブスタートデッキ さくらみこ",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のデッキから、Debutホロメン１枚を公開し、ステージに出す。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBP01-104_04_C"
+  },
+  "hBP01-104_03_C": {
+    "number": "hBP01-104",
+    "name": "ふつうのパソコン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hBP01-104_03_C.png",
+    "image_alt": "ふつうのパソコン",
+    "card_type": "サポート・アイテム",
+    "rarity": "C",
+    "product": "ライブスタートデッキ 儒烏風亭らでん",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のデッキから、Debutホロメン１枚を公開し、ステージに出す。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBP01-104_03_C"
+  },
+  "hSD15-001_OC": {
+    "number": "hSD15-001",
+    "name": "儒烏風亭らでん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-001_OC.png",
+    "image_alt": "儒烏風亭らでん",
+    "card_type": "推しホロメン",
+    "rarity": "OC",
+    "product": "ライブスタートデッキ 儒烏風亭らでん",
+    "color": "",
+    "life": 4,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー:-2]ちょっとまつたけ～♪[ターンに1回]自分のデッキから#きのこを持つイベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー:-2]あなたの世界を広げに行こう[ゲームに1回]自分のエールデッキの上から1枚を自分の〈儒烏風亭らでん〉に送る。その後、自分のアーカイブの#きのこを持つイベント1枚を手札に戻す。"
+      }
+    ],
+    "id": "hSD15-001_OC"
+  },
+  "hSD15-002_C": {
+    "number": "hSD15-002",
+    "name": "儒烏風亭らでん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-002_C.png",
+    "image_alt": "儒烏風亭らでん",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "ReGLOSS",
+      "お酒"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 儒烏風亭らでん",
+    "hp": "80",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "寄ってらっしゃい見てらっしゃい",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD15-002_C"
+  },
+  "hSD15-003_C": {
+    "number": "hSD15-003",
+    "name": "儒烏風亭らでん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-003_C.png",
+    "image_alt": "儒烏風亭らでん",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "ReGLOSS",
+      "お酒"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 儒烏風亭らでん",
+    "hp": "70",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "今日もあなたのそばに -らでん-",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "green"
+          ]
+        }
+      }
+    ],
+    "id": "hSD15-003_C"
+  },
+  "hSD15-004_C": {
+    "number": "hSD15-004",
+    "name": "儒烏風亭らでん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-004_C.png",
+    "image_alt": "儒烏風亭らでん",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "ReGLOSS",
+      "お酒"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 儒烏風亭らでん",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "一服朝っぱらでん",
+        "description": "自分が後攻で最初のターンなら、自分のエールデッキの上から1枚を自分のバックホロメンに送る。"
+      },
+      {
+        "type": "アーツ",
+        "name": "散歩でもいかがですかな？",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD15-004_C"
+  },
+  "hSD15-005_U": {
+    "number": "hSD15-005",
+    "name": "儒烏風亭らでん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-005_U.png",
+    "image_alt": "儒烏風亭らでん",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "ReGLOSS",
+      "お酒"
+    ],
+    "rarity": "U",
+    "product": "ライブスタートデッキ 儒烏風亭らでん",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "体力作り頑張るぞー！！！！！",
+        "description": "相手のターンで、このホロメンがダウンした時、このホロメンのエール1枚を自分の他のホロメンに付け替えられる。"
+      },
+      {
+        "type": "アーツ",
+        "name": "そろそろ始めちゃいますか",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD15-005_U"
+  },
+  "hSD15-006_C": {
+    "number": "hSD15-006",
+    "name": "儒烏風亭らでん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-006_C.png",
+    "image_alt": "儒烏風亭らでん",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "ReGLOSS",
+      "お酒"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 儒烏風亭らでん",
+    "hp": "140",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "世界を彩る -らでん-",
+        "dmg": "40",
+        "icons": {
+          "main": [
+            "green",
+            "any"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "ちょいと一席付き合ってみませんか？",
+        "dmg": "60",
+        "icons": {
+          "main": [
+            "green",
+            "any",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD15-006_C"
+  },
+  "hSD15-007_U": {
+    "number": "hSD15-007",
+    "name": "儒烏風亭らでん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-007_U.png",
+    "image_alt": "儒烏風亭らでん",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "ReGLOSS",
+      "お酒"
+    ],
+    "rarity": "U",
+    "product": "ライブスタートデッキ 儒烏風亭らでん",
+    "hp": "130",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "旅の前日",
+        "description": "自分のデッキの上から1枚をアーカイブする。その後、自分のアーカイブのDebutホロメン1枚をステージに出せる。"
+      },
+      {
+        "type": "アーツ",
+        "name": "この博物館おもしろそう！",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD15-007_U"
+  },
+  "hSD15-008_R": {
+    "number": "hSD15-008",
+    "name": "儒烏風亭らでん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-008_R.png",
+    "image_alt": "儒烏風亭らでん",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "ReGLOSS",
+      "お酒"
+    ],
+    "rarity": "R",
+    "product": "ライブスタートデッキ 儒烏風亭らでん",
+    "hp": "140",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "薄明",
+        "description": "このホロメンが相手のホロメンをダウンさせた時、このホロメンのHPを20回復する。"
+      },
+      {
+        "type": "アーツ",
+        "name": "きのこ狩り",
+        "dmg": "40+",
+        "description": "このターンに自分が#きのこを持つイベントを使っていたなら、このアーツ+10。",
+        "icons": {
+          "main": [
+            "green",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD15-008_R"
+  },
+  "hSD15-009_RR": {
+    "number": "hSD15-009",
+    "name": "儒烏風亭らでん",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-009_RR.png",
+    "image_alt": "儒烏風亭らでん",
+    "card_type": "ホロメン",
+    "tags": [
+      "DEV_IS",
+      "ReGLOSS",
+      "お酒"
+    ],
+    "rarity": "RR",
+    "product": "ライブスタートデッキ 儒烏風亭らでん",
+    "hp": "170",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "ザ・破天荒",
+        "description": "[センターポジション限定]このターンの間、このホロメンのアーツ+20。"
+      },
+      {
+        "type": "アーツ",
+        "name": "伝統と革新をあなたに",
+        "dmg": "90",
+        "icons": {
+          "main": [
+            "green",
+            "any",
+            "any"
+          ],
+          "tokkou": [
+            "青+30"
+          ]
+        }
+      }
+    ],
+    "id": "hSD15-009_RR"
+  },
+  "hSD15-010_C": {
+    "number": "hSD15-010",
+    "name": "まつたけダンス",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-010_C.png",
+    "image_alt": "まつたけダンス",
+    "card_type": "サポート・イベント",
+    "tags": [
+      "きのこ"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 儒烏風亭らでん",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のステージの〈儒烏風亭らでん〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+10。そのホロメンに、エールが3枚以上付いているなら、かわりに、そのホロメンのアーツ+20。"
+      }
+    ],
+    "id": "hSD15-010_C"
+  },
+  "hBP01-104_02_C": {
+    "number": "hBP01-104",
+    "name": "ふつうのパソコン",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hBP01-104_02_C.png",
+    "image_alt": "ふつうのパソコン",
+    "card_type": "サポート・アイテム",
+    "rarity": "C",
+    "product": "ライブスタートデッキ 白上フブキ",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のデッキから、Debutホロメン１枚を公開し、ステージに出す。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBP01-104_02_C"
+  },
+  "hSD14-001_OC": {
+    "number": "hSD14-001",
+    "name": "白上フブキ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-001_OC.png",
+    "image_alt": "白上フブキ",
+    "card_type": "推しホロメン",
+    "rarity": "OC",
+    "product": "ライブスタートデッキ 白上フブキ",
+    "color": "",
+    "life": 4,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー:-2]みんな一緒にいくぞぉおっ[ターンに1回]自分のマスコットが付いている〈白上フブキ〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー:-2]マスコッツ、アッセンブル!![ゲームに1回]自分のデッキから、マスコット1～2枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hSD14-001_OC"
+  },
+  "hSD14-002_C": {
+    "number": "hSD14-002",
+    "name": "白上フブキ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-002_C.png",
+    "image_alt": "白上フブキ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "1期生",
+      "ゲーマーズ",
+      "ケモミミ",
+      "絵"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 白上フブキ",
+    "hp": "80",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "はじまんぼう！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD14-002_C"
+  },
+  "hSD14-003_C": {
+    "number": "hSD14-003",
+    "name": "白上フブキ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-003_C.png",
+    "image_alt": "白上フブキ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "1期生",
+      "ゲーマーズ",
+      "ケモミミ",
+      "絵"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 白上フブキ",
+    "hp": "70",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "今日もあなたのそばに -フブキ-",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "white"
+          ]
+        }
+      }
+    ],
+    "id": "hSD14-003_C"
+  },
+  "hSD14-004_C": {
+    "number": "hSD14-004",
+    "name": "白上フブキ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-004_C.png",
+    "image_alt": "白上フブキ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "1期生",
+      "ゲーマーズ",
+      "ケモミミ",
+      "絵"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 白上フブキ",
+    "hp": "90",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "白上のとこにおいでー",
+        "description": "自分が後攻で最初のターンなら、自分のデッキからマスコット1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "ハイ　フレンズ！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD14-004_C"
+  },
+  "hSD14-005_U": {
+    "number": "hSD14-005",
+    "name": "白上フブキ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-005_U.png",
+    "image_alt": "白上フブキ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "1期生",
+      "ゲーマーズ",
+      "ケモミミ",
+      "絵"
+    ],
+    "rarity": "U",
+    "product": "ライブスタートデッキ 白上フブキ",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "いっちにー、さんしー",
+        "description": "自分のセンターホロメンを選ぶ。このターンの間、選んだホロメンのアーツ+10。"
+      },
+      {
+        "type": "アーツ",
+        "name": "いつでもいけるよ！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD14-005_U"
+  },
+  "hSD14-006_C": {
+    "number": "hSD14-006",
+    "name": "白上フブキ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-006_C.png",
+    "image_alt": "白上フブキ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "1期生",
+      "ゲーマーズ",
+      "ケモミミ",
+      "絵"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 白上フブキ",
+    "hp": "140",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "ようやくキミに会えた！！！",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "キラキラなきーつね！",
+        "dmg": "50",
+        "icons": {
+          "main": [
+            "white",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD14-006_C"
+  },
+  "hSD14-007_U": {
+    "number": "hSD14-007",
+    "name": "白上フブキ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-007_U.png",
+    "image_alt": "白上フブキ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "1期生",
+      "ゲーマーズ",
+      "ケモミミ",
+      "絵"
+    ],
+    "rarity": "U",
+    "product": "ライブスタートデッキ 白上フブキ",
+    "hp": "130",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "Message for You -フブキ-",
+        "description": "自分のセンターホロメンを選ぶ。このターンの間、選んだホロメンのアーツ+10。"
+      },
+      {
+        "type": "アーツ",
+        "name": "あーまいーこのきーもちー",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD14-007_U"
+  },
+  "hSD14-008_R": {
+    "number": "hSD14-008",
+    "name": "白上フブキ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-008_R.png",
+    "image_alt": "白上フブキ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "1期生",
+      "ゲーマーズ",
+      "ケモミミ",
+      "絵"
+    ],
+    "rarity": "R",
+    "product": "ライブスタートデッキ 白上フブキ",
+    "hp": "140",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "大丈夫ですよ！",
+        "description": "自分のアーカイブのマスコット1枚をこのホロメンに付ける。"
+      },
+      {
+        "type": "アーツ",
+        "name": "一緒に行こう(??????)??",
+        "dmg": "20+",
+        "description": "[コラボポジション限定]このホロメンにマスコットが付いているなら、このアーツ+20。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD14-008_R"
+  },
+  "hSD14-009_RR": {
+    "number": "hSD14-009",
+    "name": "白上フブキ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-009_RR.png",
+    "image_alt": "白上フブキ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "1期生",
+      "ゲーマーズ",
+      "ケモミミ",
+      "絵"
+    ],
+    "rarity": "RR",
+    "product": "ライブスタートデッキ 白上フブキ",
+    "hp": "170",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "私は倒れちゃいけないな",
+        "description": "相手のターンで、このホロメンがダウンした時、このホロメンにマスコットが付いているなら、自分のデッキを1枚引く。"
+      },
+      {
+        "type": "アーツ",
+        "name": "胸を張って歌い続けるよ",
+        "dmg": "90",
+        "icons": {
+          "main": [
+            "white",
+            "any"
+          ],
+          "tokkou": [
+            "赤+30"
+          ]
+        }
+      }
+    ],
+    "id": "hSD14-009_RR"
+  },
+  "hSD14-011_C": {
+    "number": "hSD14-011",
+    "name": "ありよりのアリゲーター",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-011_C.png",
+    "image_alt": "ありよりのアリゲーター",
+    "card_type": "サポート・マスコット",
+    "tags": [
+      "白上'sキャラクター"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ 白上フブキ",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "このマスコットが付いているホロメンのHP+10。\n\r\n◆〈白上フブキ〉に付いていたら能力追加\r\nこのホロメンが相手のホロメンをダウンさせた時、自分のエールデッキの上から1枚を自分のホロメンに送る。\n\r\nマスコットは、自分のホロメン1人につき1枚だけ付けられる。"
+      }
+    ],
+    "id": "hSD14-011_C"
+  },
+  "hBD24-067_P": {
+    "number": "hBD24-067",
+    "name": "夏色まつり",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-067_P.png",
+    "image_alt": "夏色まつり",
+    "card_type": "推しホロメン",
+    "rarity": "P",
+    "product": "PRカード",
+    "color": "",
+    "life": 5,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー:-2]イエローエンハンス[ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー:-2]Birthday Gift ～Yellow～[ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "id": "hBD24-067_P"
+  },
+  "hSD14-010_C": {
+    "number": "hSD14-010",
+    "name": "holoAN",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-010_C.png",
+    "image_alt": "holoAN",
+    "card_type": "サポート・スタッフ・LIMITED",
+    "rarity": "C",
+    "product": "ライブスタートデッキ 白上フブキライブスタートデッキ 儒烏風亭らでんライブスタートデッキ さくらみこライブスタートデッキ 星街すいせいライブスタートデッキ 森カリオペライブスタートデッキ 大空スバル",
+    "skills": [
+      {
+        "type": "サポート効果",
+        "name": "自分のデッキを３枚引く。\n\r\nLIMITED：ターンに1枚しか使えない。"
+      }
+    ],
+    "id": "hSD14-010_C"
+  },
+  "hSD16-001_OC": {
+    "number": "hSD16-001",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hSD16-001_OC.png",
+    "image_alt": "さくらみこ",
+    "card_type": "推しホロメン",
+    "rarity": "OC",
+    "product": "ライブスタートデッキ さくらみこ【使用可能カード】エントリーカップ「ディーヴァフィーバー」",
+    "color": "",
+    "life": 4,
+    "skills": [
+      {
+        "type": "推しスキル",
+        "text": "[ホロパワー:-2]35Pこっちこっちー[ターンに1回]自分の〈35P〉が付いているホロメンがいるなら、自分のデッキを1枚引く。"
+      },
+      {
+        "type": "SP推しスキル",
+        "text": "[ホロパワー:-2]35Pいくぞー！[ゲームに1回]自分のファンが付いている〈さくらみこ〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+50。"
+      }
+    ],
+    "id": "hSD16-001_OC"
+  },
+  "hSD16-002_C": {
+    "number": "hSD16-002",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hSD16-002_C.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ さくらみこ【使用可能カード】エントリーカップ「ディーヴァフィーバー」",
+    "hp": "80",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "さくらみこだよ～",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD16-002_C"
+  },
+  "hSD16-003_C": {
+    "number": "hSD16-003",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hSD16-003_C.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ さくらみこ【使用可能カード】エントリーカップ「ディーヴァフィーバー」",
+    "hp": "70",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "エリート巫女アイドル！ さくらみこだよ～",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "red"
+          ]
+        }
+      }
+    ],
+    "id": "hSD16-003_C"
+  },
+  "hSD16-004_C": {
+    "number": "hSD16-004",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hSD16-004_C.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ さくらみこ【使用可能カード】エントリーカップ「ディーヴァフィーバー」",
+    "hp": "80",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "後攻なんですｹｰﾄﾞ",
+        "description": "自分が後攻で最初のターンなら、自分のデッキから〈35P〉1枚を公開し、このホロメンに付ける。そしてデッキをシャッフルする。"
+      },
+      {
+        "type": "アーツ",
+        "name": "でゃまれ！",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD16-004_C"
+  },
+  "hSD16-005_U": {
+    "number": "hSD16-005",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hSD16-005_U.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "U",
+    "product": "ライブスタートデッキ さくらみこ【使用可能カード】エントリーカップ「ディーヴァフィーバー」",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "桜風ランニング",
+        "dmg": "20",
+        "description": "サイコロを1回振る。3か5なら、自分のデッキを1枚引く。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD16-005_U"
+  },
+  "hSD16-006_C": {
+    "number": "hSD16-006",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hSD16-006_C.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "C",
+    "product": "ライブスタートデッキ さくらみこ【使用可能カード】エントリーカップ「ディーヴァフィーバー」",
+    "hp": "140",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "アーツ",
+        "name": "みんなみててにぇ",
+        "dmg": "20",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      },
+      {
+        "type": "アーツ",
+        "name": "いっくぞぉおおおお",
+        "dmg": "50",
+        "icons": {
+          "main": [
+            "red",
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD16-006_C"
+  },
+  "hSD16-007_U": {
+    "number": "hSD16-007",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hSD16-007_U.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "U",
+    "product": "ライブスタートデッキ さくらみこ【使用可能カード】エントリーカップ「ディーヴァフィーバー」",
+    "hp": "130",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ギフト",
+        "name": "みこの膝にごろーんってして",
+        "description": "相手のターンで、このホロメンがダウンした時、自分のデッキを1枚引く。"
+      },
+      {
+        "type": "アーツ",
+        "name": "みこの耳かきスキルに蕩けちゃえ",
+        "dmg": "30+",
+        "description": "[センターポジション限定]サイコロを1回振る。3か5なら、このアーツ+10。",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD16-007_U"
+  },
+  "hSD16-008_R": {
+    "number": "hSD16-008",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hSD16-008_R.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "R",
+    "product": "ライブスタートデッキ さくらみこ【使用可能カード】エントリーカップ「ディーヴァフィーバー」",
+    "hp": "140",
+    "bloom_level": "1st",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "待ってたにぇ",
+        "description": "サイコロを1回振る。3か5なら、自分のアーカイブの〈35P〉1枚を手札に戻す。"
+      },
+      {
+        "type": "アーツ",
+        "name": "いっぱい遊ぼっ",
+        "dmg": "30",
+        "icons": {
+          "main": [
+            "any"
+          ]
+        }
+      }
+    ],
+    "id": "hSD16-008_R"
+  },
+  "hSD16-009_RR": {
+    "number": "hSD16-009",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hSD16-009_RR.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "RR",
+    "product": "ライブスタートデッキ さくらみこ【使用可能カード】エントリーカップ「ディーヴァフィーバー」",
+    "hp": "170",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "ブルームエフェクト",
+        "name": "35P、ありがとうだよー！",
+        "description": "このターンの間、自分のステージの〈35P〉1枚につき、このホロメンのアーツ+10。"
+      },
+      {
+        "type": "アーツ",
+        "name": "この瞬間を見せてあげたいなって",
+        "dmg": "100",
+        "icons": {
+          "main": [
+            "red",
+            "any",
+            "any"
+          ],
+          "tokkou": [
+            "黄+30"
+          ]
+        }
+      }
+    ],
+    "id": "hSD16-009_RR"
+  },
+  "hBP07-043_P_01": {
+    "number": "hBP07-043",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-043_P_01.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「ディーヴァフィーバー」",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "holoRêve -みこ-",
+        "description": "3か5を選ぶ。このターンの間、自分の推しホロメンの〈さくらみこ〉と自分のステージの〈さくらみこ〉の能力でサイコロを振る時、そのサイコロの目の数すべてを選んだ数として扱う。"
+      },
+      {
+        "type": "アーツ",
+        "name": "桜は花に顕る",
+        "dmg": "70+",
+        "description": "このホロメンに付いている〈35P〉1枚につき、このアーツ+70し、自分のデッキを1枚引く。",
+        "icons": {
+          "main": [
+            "red",
+            "red",
+            "red",
+            "any"
+          ],
+          "tokkou": [
+            "紫+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP07-043_P_01"
+  },
+  "hBP07-043_P_02": {
+    "number": "hBP07-043",
+    "name": "さくらみこ",
+    "image_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-043_P_02.png",
+    "image_alt": "さくらみこ",
+    "card_type": "ホロメン",
+    "tags": [
+      "JP",
+      "0期生",
+      "ベイビー"
+    ],
+    "rarity": "P",
+    "product": "PRカード【使用可能カード】エントリーカップ「ディーヴァフィーバー」",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "skills": [
+      {
+        "type": "キーワード",
+        "subtype": "コラボエフェクト",
+        "name": "holoRêve -みこ-",
+        "description": "3か5を選ぶ。このターンの間、自分の推しホロメンの〈さくらみこ〉と自分のステージの〈さくらみこ〉の能力でサイコロを振る時、そのサイコロの目の数すべてを選んだ数として扱う。"
+      },
+      {
+        "type": "アーツ",
+        "name": "桜は花に顕る",
+        "dmg": "70+",
+        "description": "このホロメンに付いている〈35P〉1枚につき、このアーツ+70し、自分のデッキを1枚引く。",
+        "icons": {
+          "main": [
+            "red",
+            "red",
+            "red",
+            "any"
+          ],
+          "tokkou": [
+            "紫+50"
+          ]
+        }
+      }
+    ],
+    "id": "hBP07-043_P_02"
   }
 }
